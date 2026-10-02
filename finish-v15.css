@@ -1,0 +1,26 @@
+/* Direct bands, natural artwork edges and one compact diagonal arrow. */
+body main .folio-gallery+.folio-gallery,body main .gallery-adjacent-v15{margin-top:0!important;margin-bottom:0!important;border:0}
+body main .folio-gallery{margin-bottom:0}
+body main .folio-strip{padding-inline:0}
+body .pill .arrow{display:inline-flex;align-items:center;justify-content:center;width:18px;height:18px;flex:0 0 18px;font-size:18px}
+body .pill .arrow .icon-arrow{width:18px;height:18px;display:block;fill:none}
+body .icon-arrow{fill:none;stroke:currentColor;stroke-width:1.4}
+body .motion-arrow svg{fill:none;stroke:currentColor;stroke-width:1.4}
+body .project-card h2 strong .motion-title-word{font-weight:inherit}
+body main .figure button{border-radius:24px}
+body main .figure>button[data-zoom],body main .figure>button[data-zoom] img{aspect-ratio:var(--work-ratio)!important}
+body main .case-hero.hero-artwork-v15{height:auto!important;max-height:none!important}
+body main .growth-editorial.hero-artwork-v15{padding:clamp(30px,4vw,60px);min-height:450px}
+body main .growth-tablet-v15{max-width:440px}
+body main .growth-tablet-v15 img{max-height:440px}
+body.eywa-case main .case-hero.hero-artwork-v15{padding:0!important;min-height:0!important}
+body main .exhibit-kinext .kinext-portrait-grid-v15>.exhibit-piece:first-child{grid-column:auto!important}
+body .generated-cover-v15>img{position:static!important;display:block!important;width:100%!important;height:100%!important;object-fit:cover!important;border-radius:inherit!important;transform:none!important;filter:none!important;box-shadow:none!important;transition:none!important}
+body .project-media.cover-strategiya-rosta-v15{display:grid;place-items:center;background:radial-gradient(ellipse at 90% 0%,#6b69d7,transparent 70%),linear-gradient(145deg,#1b213a,#333d73)}
+body .project-media.cover-strategiya-rosta-v15>img{width:89%!important;height:92%!important;object-fit:contain!important}
+body main .exhibit-heading h2{font-weight:400}
+body main .case-block h2{font-size:clamp(28px,3vw,44px);line-height:1.16}
+body main .quote{font-size:clamp(21px,2.3vw,32px);line-height:1.45}
+@media(max-width:700px){body main .growth-editorial.hero-artwork-v15{min-height:0;padding:27px 23px}body main .growth-tablet-v15 img{max-height:360px}}
+@media(max-width:600px){body main .figure button{border-radius:18px}body .pill .arrow,body .pill .arrow .icon-arrow{width:16px;height:16px;flex-basis:16px}body .header .menu-toggle{flex:0 0 auto;min-width:max-content;margin-left:auto}body .header .nav .pill.small{padding-inline:12px}}
+@media(max-width:360px){body .header .nav:not(.open){display:none}}

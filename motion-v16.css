@@ -1,0 +1,126 @@
+/* v16: slower liquid button fill and scroll-led case copy. */
+html body .motion-button {
+  --motion-button-idle: currentColor;
+  --motion-button-hover: #fff;
+  --motion-button-fill: #161616;
+  --motion-button-ink: var(--motion-button-idle);
+  position: var(--motion-button-position, relative);
+  isolation: isolate;
+  overflow: hidden;
+  color: var(--motion-button-ink) !important;
+  transition: color 340ms cubic-bezier(.22, 1, .36, 1) !important;
+}
+html body .motion-button:hover,
+html body .motion-button:focus-visible { color: var(--motion-button-ink) !important; }
+html body .motion-button.is-fill-active { --motion-button-ink: var(--motion-button-hover); }
+html body .pill.motion-button::before,
+html body .pill.motion-button::after { display: none !important; content: none !important; }
+.motion-button-fill {
+  position: absolute !important;
+  inset: -55% -12%;
+  z-index: 0 !important;
+  border-radius: 50%;
+  background: var(--motion-button-fill);
+  transform: translateY(115%);
+  pointer-events: none;
+}
+.motion-button > :not(.motion-button-fill) { position: relative; z-index: 1; }
+.motion-button-label {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: inherit;
+  min-width: 0;
+}
+html body .motion-button .roll > span,
+html body .motion-button:hover .roll > span,
+html body .motion-button:focus-visible .roll > span {
+  transform: none !important;
+  transition: none !important;
+}
+html body .motion-button .roll > span::after { content: none !important; }
+html body .motion-button .arrow,
+html body .motion-button:hover .arrow,
+html body .motion-button:focus-visible .arrow { transform: none !important; transition: none !important; }
+.motion-magnetic-label { display: inline-block; }
+.motion-magnetic { touch-action: manipulation; }
+.motion-nav-label { position: relative; display: inline-block; }
+html body .nav-link.motion-magnetic::after,
+html body .filter.motion-magnetic::after { display: none !important; }
+.motion-nav-indicator {
+  position: absolute;
+  bottom: -2px;
+  left: calc(50% - 3px);
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: currentColor;
+  pointer-events: none;
+  opacity: 0;
+  transform: translateY(5px) scale(.35);
+  transition: transform 360ms cubic-bezier(.16, 1, .3, 1), opacity 220ms ease;
+}
+.filter .motion-nav-indicator { bottom: -4px; }
+.motion-magnetic.is-magnetic-hover > .motion-nav-indicator,
+.motion-magnetic:focus-visible > .motion-nav-indicator,
+.nav-link[aria-current="page"] > .motion-nav-indicator,
+.filter.active > .motion-nav-indicator,
+.filter[aria-pressed="true"] > .motion-nav-indicator {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+}
+.motion-project-pending > a { display: block; opacity: 0; translate: 0 60px; scale: .96; }
+.motion-project-ready > a { display: block; }
+.motion-title-word { display: inline-block; transform-origin: 0 100%; }
+/* Case text owns its own word entrance; legacy group fading is neutralized. */
+html body main .motion-case-scope.reveal,
+html body main .motion-case-text.reveal {
+  opacity: 1 !important;
+  transform: none !important;
+  transition: none !important;
+}
+.motion-case-text { transform-origin: 0 50%; }
+html body main .motion-case-word {
+  display: inline-block;
+  vertical-align: baseline;
+  white-space: pre;
+  transform-origin: 0 100%;
+  font: inherit !important;
+  letter-spacing: inherit !important;
+  color: inherit !important;
+  width: auto !important;
+  min-width: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.motion-case-pending .motion-case-word { opacity: 0; }
+.motion-case-ready .motion-case-word { opacity: 1; }
+html body .transition-surface.motion-page-surface {
+  display: block;
+  background: var(--motion-transition-color, var(--case-paper, var(--paper, #f4f3ef)));
+  transform: translateY(110%);
+  translate: none;
+  transition: none;
+  pointer-events: none;
+  z-index: 4;
+  border-radius: 28px 28px 0 0;
+}
+html.motion-page-leaving { cursor: progress; }
+html.motion-page-leaving .motion-page-surface { pointer-events: auto; }
+@media (hover: none), (pointer: coarse) {
+  .motion-nav-indicator { transition-duration: 180ms; }
+  .motion-magnetic { translate: none !important; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .motion-magnetic, .motion-magnetic-label { translate: none !important; }
+  .motion-project-pending > a { opacity: 1; translate: none; scale: 1; }
+  .motion-button-fill { will-change: auto; }
+  .motion-case-text { translate: none !important; }
+  .motion-case-pending .motion-case-word,
+  .motion-case-ready .motion-case-word {
+    opacity: 1 !important;
+    translate: none !important;
+    rotate: none !important;
+  }
+  html body .transition-surface.motion-page-surface { display: none; }
+}

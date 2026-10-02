@@ -1,0 +1,5 @@
+/* Shared clipping for artwork placed inside the introductory compositions. */
+body main .case-hero img{border-radius:18px!important}
+body main .story-device img{border-radius:14px!important}
+body main .hero-object,body main .hero-companion{overflow:hidden}
+@media(max-width:600px){body main .case-hero img{border-radius:14px!important}}

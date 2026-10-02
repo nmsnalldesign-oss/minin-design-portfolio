@@ -1,0 +1,65 @@
+/* v15 — genuine artwork, direct edges and complete compositions. */
+body main .hero-artwork-v15{height:auto;min-height:380px;max-height:none;align-items:center;aspect-ratio:auto;gap:clamp(28px,4vw,65px);padding:clamp(30px,4.8vw,72px);overflow:hidden}
+body main .hero-artwork-v15 h2{font-weight:400;line-height:1.13;font-size:clamp(30px,3.3vw,50px);letter-spacing:-.045em;margin:24px 0}
+body main .hero-artwork-v15 p{font-size:14px;line-height:1.65;max-width:330px}
+body main .hero-artwork-v15 .pill{white-space:normal;max-width:100%}
+.work-composition{display:flex;width:100%;min-width:0;min-height:0;gap:18px;align-items:center;justify-content:center}
+body main button.hero-art-tile{display:block;position:relative;flex:0 1 auto;min-width:0;padding:0;border:0;border-radius:20px;background:transparent;overflow:hidden;box-shadow:none;line-height:0;cursor:pointer;transition:filter .45s ease}
+body main button.hero-art-tile:focus-visible{outline:2px solid currentColor;outline-offset:6px}
+body main button.hero-art-tile img{display:block!important;width:100%!important;height:auto!important;max-height:none;object-fit:fill!important;aspect-ratio:auto!important;border-radius:inherit;transform:none;box-shadow:none}
+body main button.hero-art-tile:hover{filter:brightness(1.055)}
+.work-stories .hero-art-tile{flex:1 1 0;max-width:33.33%}
+.work-mixed .art-primary{width:54%;max-width:280px}
+.work-mixed .art-secondary{width:42%;max-width:230px;align-self:center}
+.work-product .hero-art-tile{width:min(100%,330px)}
+.work-wide .hero-art-tile{width:100%}
+body main .hero-artwork-v15.hero-presentation{grid-template-columns:.75fr 1.25fr}
+body main .hero-artwork-v15.story-hero{grid-template-columns:.78fr 1.22fr}
+body main .hero-artwork-v15.hero-stories{grid-template-columns:.8fr 1.2fr}
+
+/* Generated detailed equipment shows the exact source presentation. */
+body main .growth-editorial.hero-artwork-v15{grid-template-columns:.9fr 1.15fr;background:radial-gradient(ellipse at 95% 0%,#7470e0,transparent 67%),linear-gradient(135deg,#191d32,#323967);min-height:450px}
+.growth-model-v15{display:flex;justify-content:center;align-items:center;width:100%;min-width:0}
+body main .growth-tablet-v15{width:100%;max-width:500px;min-width:0;padding:0;background:transparent;border:0;cursor:pointer;line-height:0}
+.growth-tablet-v15 img{display:block;width:100%;height:auto;max-height:540px;object-fit:contain;filter:drop-shadow(0 22px 18px #090b2440)}
+.growth-tablet-v15:focus-visible{outline:2px solid #fff;outline-offset:5px;border-radius:24px}
+.growth-case .exhibit-band-v15{background:linear-gradient(140deg,#20263f,#393e74);color:#f2f1fa}
+.exhibit-band-v15{width:100%;max-width:none!important;margin:65px 0 75px!important;padding:48px 0 45px}
+.exhibit-band-v15 .exhibit-heading{margin-bottom:30px}
+.exhibit-band-v15 .exhibit-heading h2{color:inherit}
+.exhibit-band-v15 .text-link,.exhibit-band-v15 .pill{color:inherit}
+.exhibit-band-v15 .pill{border-color:#ffffff65}
+.exhibit-band-v15 .pill:before{background:#fff}
+.exhibit-band-v15 .pill:hover{color:#252d30}
+body main .growth-reading-row-v15{display:flex;align-items:start;justify-content:space-between;gap:24px;overflow-x:auto;padding:0 0 15px;scroll-snap-type:x mandatory;scrollbar-color:#ffffff45 transparent;scrollbar-width:thin}
+body main .growth-reading-row-v15 .exhibit-piece{width:auto!important;flex:0 0 auto;max-width:none;scroll-snap-align:start}
+body main .growth-reading-row-v15 .exhibit-piece>button[data-zoom]{width:calc(clamp(355px,40vw,510px) * var(--work-ratio))!important;max-width:none!important}
+body main .growth-reading-row-v15 .exhibit-piece figcaption{font-size:12px;gap:12px;opacity:.75}
+
+/* KINEXT: one uninterrupted original banner, then three complete pairs. */
+body main .kinext-cover-v15{height:auto;min-height:0;aspect-ratio:auto;max-height:none;display:block;padding:0!important;overflow:hidden;background:#141517}
+body main .kinext-cover-v15 .hero-art-tile{width:100%;border-radius:inherit}
+body main .exhibit-kinext .exhibit-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:30px 26px;align-items:start}
+body main .exhibit-kinext .exhibit-piece{width:100%!important;max-width:none!important;justify-self:stretch}
+body main .exhibit-kinext .exhibit-grid>.exhibit-piece:first-child{grid-column:1/-1;width:100%!important;max-width:none}
+.kinext-format-v15{background:#1c1b1d;color:#f0eae7;border-radius:24px;padding:36px;margin-top:45px}
+.kinext-format-heading-v15{margin-bottom:28px}
+.kinext-format-heading-v15 h3{font-size:clamp(26px,3vw,38px);font-weight:400;letter-spacing:-.04em;line-height:1.2;margin:0}
+.kinext-portrait-grid-v15{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px;align-items:start;max-width:900px;margin:auto}
+body main .kinext-portrait-grid-v15 .exhibit-piece{width:100%!important}
+body main .kinext-portrait-grid-v15 figcaption{font-size:11px;line-height:1.5;gap:10px}
+
+/* Georgia: dark green grounds the artwork and separates its warm pale pages. */
+body.case-georgia{--case-paper:#e9e5dc!important;--case-ink:#273930!important;background:radial-gradient(ellipse at 85% 0%,#dddccb,transparent 50%),#e9e5dc;color:#273930}
+.case-georgia .case-motion-shell{background:transparent}
+body main .landscape-hero.hero-artwork-v15{background:linear-gradient(130deg,#1b2c24,#3c4b35);grid-template-columns:.68fr 1.32fr;color:#f4f0e5;min-height:375px}
+.case-georgia .exhibit-band-v15{background:#293b30;color:#f2eee3;padding:48px 0 45px}
+body main .exhibit-georgia .exhibit-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:32px 26px;align-items:start}
+body main .exhibit-georgia .exhibit-piece{width:100%!important;max-width:none;grid-column:auto!important;justify-self:stretch}
+body main .exhibit-georgia figcaption{opacity:.72}
+.case-georgia .case-facts{border-color:#27393035}
+
+@media(min-width:1700px){body main .growth-reading-row-v15 .exhibit-piece>button[data-zoom]{width:calc(555px * var(--work-ratio))!important}}
+@media(max-width:1100px){body main .hero-artwork-v15{padding:35px;gap:26px;min-height:340px}.work-composition{gap:13px}body main .growth-reading-row-v15{justify-content:flex-start}body main .growth-reading-row-v15 .exhibit-piece>button[data-zoom]{width:calc(460px * var(--work-ratio))!important}.kinext-format-v15{padding:28px}.kinext-portrait-grid-v15{gap:20px}}
+@media(max-width:700px){body main .hero-artwork-v15:not(.kinext-cover-v15){grid-template-columns:1fr;min-height:0;height:auto;padding:27px 23px;gap:28px}body main .hero-artwork-v15 h2{font-size:34px;margin:19px 0}body main .hero-artwork-v15 p{font-size:13px}.work-composition{max-width:480px;margin:auto;gap:12px}.work-product .hero-art-tile{width:min(70%,260px)}.work-mixed .art-primary{width:53%}.work-mixed .art-secondary{width:42%}body main button.hero-art-tile{border-radius:16px}.growth-model-v15{max-width:360px;margin:auto}.growth-tablet-v15 img{max-height:395px}.exhibit-band-v15{padding:30px 0!important;margin:42px 0 50px!important}.exhibit-band-v15 .exhibit-heading{margin-bottom:25px}.exhibit-band-v15 .exhibit-heading h2{font-size:28px}.exhibit-band-v15 .exhibit-heading{display:block}.exhibit-band-v15 .exhibit-heading .pill,.exhibit-band-v15 .text-link{margin-top:12px}.growth-reading-row-v15{gap:18px!important}body main .growth-reading-row-v15 .exhibit-piece>button[data-zoom]{width:calc(min(57svh,475px) * var(--work-ratio))!important}body main .exhibit-kinext .exhibit-grid{grid-template-columns:1fr;gap:27px}body main .exhibit-kinext .exhibit-grid>.exhibit-piece:first-child{grid-column:auto}.kinext-format-v15{border-radius:18px;padding:24px 18px;margin-top:35px}.kinext-portrait-grid-v15{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:18px;padding-bottom:12px;scrollbar-width:thin}body main .kinext-portrait-grid-v15 .exhibit-piece{flex:0 0 72%;scroll-snap-align:start}.kinext-format-heading-v15{margin-bottom:23px}body main .exhibit-georgia .exhibit-grid{grid-template-columns:1fr;gap:27px}.case-georgia .exhibit-band-v15 .figure figcaption{margin-top:12px}.work-wide .hero-art-tile{width:100%}}
+@media(prefers-reduced-motion:reduce){body main .hero-artwork-v15,body main button.hero-art-tile{transition:none!important;animation:none!important}.growth-reading-row-v15,.kinext-portrait-grid-v15{scroll-behavior:auto!important}}

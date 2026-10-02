@@ -1,0 +1,11 @@
+/* Catalogue artwork keeps the intended perspective despite legacy image resets. */
+body .project-card .actual-work-cover .cover-work-main{box-shadow:0 20px 36px #0005}
+body .project-card .cover-strategiya-rosta .cover-work-main{transform:rotate(-8deg)!important}
+body .project-card .cover-strategiya-rosta .cover-work-secondary{transform:rotate(8deg)!important}
+body .project-card .cover-kinext .cover-work-main{transform:rotate(-6deg)!important}
+body .project-card .cover-kinext .cover-work-secondary{transform:rotate(7deg)!important}
+body .project-card .cover-trueman .cover-work-main{transform:rotate(6deg)!important}
+body .project-card .cover-trueman .cover-work-secondary{transform:rotate(-7deg)!important}
+body .project-card:hover .actual-work-cover .cover-work-main{transform:rotate(-2deg)!important}
+body .project-card:hover .actual-work-cover .cover-work-secondary{transform:rotate(3deg)!important}
+@media(prefers-reduced-motion:reduce){body .project-card .actual-work-cover img{transition:none!important}}

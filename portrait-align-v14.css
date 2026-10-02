@@ -1,0 +1,2 @@
+.about-grid>div:first-child{align-self:start;padding-top:24px}
+@media(max-width:600px){.about-grid>div:first-child{padding-top:0}}

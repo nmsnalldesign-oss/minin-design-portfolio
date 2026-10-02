@@ -1,0 +1,5 @@
+/* Copy layout: shared contact context, preserves case palettes. */
+.footer h2{font-size:clamp(46px,6.7vw,102px);line-height:1.08;margin-bottom:26px}
+.footer .contact-context{max-width:590px;font-size:clamp(15px,1.3vw,19px);line-height:1.65;color:inherit;opacity:.75;margin:0 0 38px;letter-spacing:-.015em}
+.hero p{max-width:690px;margin-inline:auto}
+@media(max-width:600px){.footer h2{font-size:clamp(36px,10.4vw,47px)}.footer .contact-context{font-size:15px;margin-bottom:28px}.hero p{margin-inline:0}}

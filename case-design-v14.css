@@ -1,0 +1,66 @@
+/* Actual artwork edges are the clipping surface; there are no letterbox frames. */
+:root{--case-radius:24px}
+body main .figure>button[data-zoom]{display:block!important;width:100%!important;height:auto!important;min-height:0!important;aspect-ratio:auto!important;padding:0!important;background:transparent!important;border:0!important;border-radius:var(--case-radius)!important;overflow:hidden!important;box-shadow:none!important}
+body main .figure>button[data-zoom] img{display:block!important;width:100%!important;height:auto!important;min-height:0!important;max-height:none!important;aspect-ratio:auto!important;object-fit:fill!important;padding:0!important;border-radius:inherit!important;transform:none!important}
+body main .full-figure img{display:block;width:100%;height:auto;border-radius:var(--case-radius)}
+body main .case-gallery .figure{margin-top:0!important}
+body main .case-gallery{gap:clamp(24px,3vw,44px);align-items:start}
+body main .figure figcaption{font-size:12px;line-height:1.6;max-width:none;margin:16px 0 0;color:inherit;opacity:.65}
+body main .folio-slide{width:min(clamp(220px,24vw,360px),calc(56svh * var(--work-ratio,.67)))!important}
+body main .banner-section .figure{max-width:100%}
+body main .case-hero{border-radius:var(--case-radius)}
+.eywa-case main .case-hero{height:auto!important;aspect-ratio:auto!important;max-height:none!important;background:transparent}
+.eywa-case main .case-hero img{display:block;width:100%;height:auto;border-radius:inherit}
+body main .hero-object img,body main .hero-companion img,body main .story-device img{height:auto;aspect-ratio:auto;object-fit:fill}
+.growth-case .device-float{height:auto;width:min(72%,calc(44svh * .63));aspect-ratio:auto}
+.growth-case .device{height:auto}
+.growth-case .device img{flex:none;width:100%;height:auto;object-fit:fill;border-radius:0}
+.case-kinext .folio-page{max-width:none}
+
+/* Editorial sequences: one wide moment, paired details, a deliberate format change. */
+.case-exhibit{margin:70px auto 90px;color:var(--case-ink,#23283b)}
+.exhibit-heading{display:flex;align-items:center;justify-content:space-between;gap:28px;margin-bottom:34px}
+.exhibit-heading h2{font-size:clamp(26px,3vw,44px);line-height:1.18;letter-spacing:-.045em;margin:0;max-width:650px}
+.exhibit-heading .pill,.exhibit-heading .text-link{font-size:12px;white-space:nowrap;color:inherit;border-color:currentColor}
+.exhibit-heading .pill:before{background:var(--case-ink,#23283b)}
+.exhibit-heading .pill:hover{color:var(--case-paper,#fff)}
+.exhibit-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:40px 32px;align-items:start}
+.exhibit-piece{min-width:0;margin:0}
+.exhibit-piece figcaption{display:flex;gap:18px;align-items:baseline}
+.exhibit-piece figcaption>span{font-size:10px;font-variant-numeric:tabular-nums;opacity:.6}
+.exhibit-georgia .exhibit-piece:first-child,.exhibit-kinext .exhibit-piece:first-child,.exhibit-nadezhny-posutochnik .exhibit-piece:first-child{grid-column:1/-1;width:min(100%,980px);justify-self:center}
+.exhibit-nadezhny-posutochnik .exhibit-piece:last-child{grid-column:1/-1;width:min(100%,980px);justify-self:center}
+.exhibit-growth .exhibit-grid{column-gap:7vw;row-gap:44px}
+.exhibit-growth .exhibit-piece{width:min(100%,calc(58svh * var(--work-ratio,.55)));justify-self:center}
+.exhibit-el-term .exhibit-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:40px 26px}
+.exhibit-el-term .exhibit-piece{width:min(100%,calc(54svh * .75));justify-self:center}
+.exhibit-el-term .exhibit-piece:first-child{grid-column:1/-1;width:min(48%,calc(59svh * .75))}
+.exhibit-adaptation{display:grid;grid-template-columns:1fr .58fr;gap:10%;align-items:center;margin:54px auto 0;max-width:980px}
+.exhibit-adaptation .exhibit-piece{width:min(100%,420px);justify-self:center}
+.adaptation-copy h3{font-size:clamp(28px,3.2vw,46px);font-weight:400;line-height:1.18;letter-spacing:-.04em;margin-bottom:22px}
+.adaptation-copy p{font-size:17px;line-height:1.7;max-width:390px;opacity:.7}
+.kinext-editorial.case-hero{grid-template-columns:.95fr 1.2fr;gap:6%;background:radial-gradient(ellipse at 100% 10%,#80302f,transparent 75%),#191619}
+.kinext-contact{width:100%;transform:none;position:relative;display:block;height:100%;min-height:270px}
+.kinext-editorial .kinext-contact img{position:absolute;width:97%;height:auto;border-radius:18px;box-shadow:0 20px 42px #0005;top:34%;left:0;transform:rotate(-5deg);z-index:2}
+.kinext-editorial .kinext-contact img:nth-child(2){width:82%;top:19%;left:15%;translate:0 0;transform:rotate(7deg);z-index:1;opacity:.82}
+.kinext-editorial .eyebrow,.kinext-editorial p{color:#e2c8c5}
+
+/* Catalogue covers built from genuine deliverables. */
+.actual-work-cover{position:relative;overflow:hidden;isolation:isolate;border-radius:24px;background:#202438}
+.actual-work-cover img{position:absolute!important;height:auto!important;object-fit:fill!important;border-radius:16px!important;box-shadow:0 18px 35px #0004;transition:transform .8s var(--ease),translate .8s var(--ease)!important}
+.cover-strategiya-rosta{background:radial-gradient(ellipse at 85% 0%,#7171db,transparent 65%),linear-gradient(145deg,#202238,#383e75)}
+.cover-strategiya-rosta .cover-work-main{width:43%!important;left:12%;top:19%;transform:rotate(-8deg);z-index:2}
+.cover-strategiya-rosta .cover-work-secondary{width:38%!important;right:8%;top:12%;transform:rotate(8deg);z-index:1}
+.cover-kinext{background:radial-gradient(ellipse at 95% 100%,#8d282c,transparent 75%),#191619}
+.cover-kinext .cover-work-main{width:90%!important;left:5%;top:31%;transform:rotate(-6deg);z-index:2}
+.cover-kinext .cover-work-secondary{width:82%!important;left:14%;top:20%;transform:rotate(7deg);z-index:1}
+.cover-trueman{background:radial-gradient(ellipse at 100% 0%,#5e6556,transparent 65%),#1b1d1a}
+.cover-trueman .cover-work-main{width:73%!important;right:6%;top:21%;transform:rotate(6deg);z-index:2}
+.cover-trueman .cover-work-secondary{width:39%!important;left:7%;top:9%;transform:rotate(-7deg);z-index:1}
+.project-card:hover .actual-work-cover img{translate:0 -5px}
+.project-card:hover .cover-work-main{transform:rotate(-2deg)}
+.project-card:hover .cover-work-secondary{transform:rotate(3deg)}
+
+@media(max-width:900px){.exhibit-heading{align-items:flex-start}.exhibit-heading .pill{padding:12px 16px}.exhibit-el-term .exhibit-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.exhibit-el-term .exhibit-piece:first-child{width:min(55%,calc(59svh * .75))}}
+@media(max-width:600px){:root{--case-radius:18px}.case-exhibit{margin:42px auto 55px}.exhibit-heading{display:block;margin-bottom:26px}.exhibit-heading h2{font-size:28px;margin-bottom:20px}.exhibit-grid{gap:28px 16px;grid-template-columns:1fr}.exhibit-piece,.exhibit-georgia .exhibit-piece:first-child,.exhibit-nadezhny-posutochnik .exhibit-piece:last-child{grid-column:auto!important;width:100%!important}.exhibit-kinext .exhibit-grid{grid-template-columns:1fr}.exhibit-growth .exhibit-grid{gap:30px;grid-template-columns:repeat(2,minmax(0,1fr))}.exhibit-growth .exhibit-piece{width:100%!important}.exhibit-growth .exhibit-piece figcaption{font-size:10px;gap:8px}.exhibit-el-term .exhibit-grid{gap:30px 16px;grid-template-columns:repeat(2,minmax(0,1fr))}.exhibit-el-term .exhibit-piece:first-child{grid-column:1/-1!important;width:70%!important;justify-self:center}.exhibit-el-term .exhibit-piece figcaption{font-size:10px;gap:8px}.exhibit-adaptation{grid-template-columns:1fr;gap:25px;margin-top:36px}.exhibit-adaptation .exhibit-piece{width:min(78%,360px)!important}.adaptation-copy h3{font-size:30px}.adaptation-copy p{font-size:15px}.kinext-editorial.case-hero{grid-template-columns:1fr;height:auto;padding:28px 23px;gap:22px}.kinext-contact{min-height:230px}.kinext-editorial .kinext-contact img{top:29%}.kinext-editorial .kinext-contact img:nth-child(2){top:8%}.growth-case .device-float{width:min(72%,220px)}.actual-work-cover img{border-radius:12px!important}body main .folio-slide{width:min(76vw,calc(55svh * var(--work-ratio,.67)))!important}}
+@media(prefers-reduced-motion:reduce){.actual-work-cover img{transition:none!important}.project-card:hover .actual-work-cover img{translate:none}}

@@ -1,0 +1,180 @@
+{
+  "pages": [
+    {
+      "page": "about/index.html",
+      "css_before": 13,
+      "css_after": 1,
+      "scripts_before": 5,
+      "scripts_after": 1,
+      "stylesheet": "styles-bc67953cbe5d.css",
+      "script": "scripts-bd03c24edfc5.js"
+    },
+    {
+      "page": "index.html",
+      "css_before": 15,
+      "css_after": 1,
+      "scripts_before": 5,
+      "scripts_after": 1,
+      "stylesheet": "styles-463ec9af215f.css",
+      "script": "scripts-bd03c24edfc5.js"
+    },
+    {
+      "page": "projects/el-term/index.html",
+      "css_before": 12,
+      "css_after": 1,
+      "scripts_before": 5,
+      "scripts_after": 1,
+      "stylesheet": "styles-cda3792d72f4.css",
+      "script": "scripts-bd03c24edfc5.js"
+    },
+    {
+      "page": "projects/eywa/index.html",
+      "css_before": 12,
+      "css_after": 1,
+      "scripts_before": 6,
+      "scripts_after": 1,
+      "stylesheet": "styles-cda3792d72f4.css",
+      "script": "scripts-eff1b54f7668.js"
+    },
+    {
+      "page": "projects/flowers/index.html",
+      "css_before": 12,
+      "css_after": 1,
+      "scripts_before": 5,
+      "scripts_after": 1,
+      "stylesheet": "styles-cda3792d72f4.css",
+      "script": "scripts-bd03c24edfc5.js"
+    },
+    {
+      "page": "projects/georgia/index.html",
+      "css_before": 12,
+      "css_after": 1,
+      "scripts_before": 5,
+      "scripts_after": 1,
+      "stylesheet": "styles-cda3792d72f4.css",
+      "script": "scripts-bd03c24edfc5.js"
+    },
+    {
+      "page": "projects/gorclinica/index.html",
+      "css_before": 12,
+      "css_after": 1,
+      "scripts_before": 5,
+      "scripts_after": 1,
+      "stylesheet": "styles-cda3792d72f4.css",
+      "script": "scripts-bd03c24edfc5.js"
+    },
+    {
+      "page": "projects/gremm-food/index.html",
+      "css_before": 12,
+      "css_after": 1,
+      "scripts_before": 5,
+      "scripts_after": 1,
+      "stylesheet": "styles-cda3792d72f4.css",
+      "script": "scripts-bd03c24edfc5.js"
+    },
+    {
+      "page": "projects/index.html",
+      "css_before": 15,
+      "css_after": 1,
+      "scripts_before": 5,
+      "scripts_after": 1,
+      "stylesheet": "styles-463ec9af215f.css",
+      "script": "scripts-bd03c24edfc5.js"
+    },
+    {
+      "page": "projects/kinext/index.html",
+      "css_before": 12,
+      "css_after": 1,
+      "scripts_before": 5,
+      "scripts_after": 1,
+      "stylesheet": "styles-cda3792d72f4.css",
+      "script": "scripts-bd03c24edfc5.js"
+    },
+    {
+      "page": "projects/nadezhny-posutochnik/index.html",
+      "css_before": 12,
+      "css_after": 1,
+      "scripts_before": 5,
+      "scripts_after": 1,
+      "stylesheet": "styles-cda3792d72f4.css",
+      "script": "scripts-bd03c24edfc5.js"
+    },
+    {
+      "page": "projects/solnechnaya-polyana/index.html",
+      "css_before": 12,
+      "css_after": 1,
+      "scripts_before": 5,
+      "scripts_after": 1,
+      "stylesheet": "styles-cda3792d72f4.css",
+      "script": "scripts-bd03c24edfc5.js"
+    },
+    {
+      "page": "projects/strategiya-rosta/index.html",
+      "css_before": 14,
+      "css_after": 1,
+      "scripts_before": 6,
+      "scripts_after": 1,
+      "stylesheet": "styles-a0ab444bd0f7.css",
+      "script": "scripts-f5231e50db0d.js"
+    },
+    {
+      "page": "projects/trizey/index.html",
+      "css_before": 12,
+      "css_after": 1,
+      "scripts_before": 5,
+      "scripts_after": 1,
+      "stylesheet": "styles-cda3792d72f4.css",
+      "script": "scripts-bd03c24edfc5.js"
+    },
+    {
+      "page": "projects/trueman/index.html",
+      "css_before": 12,
+      "css_after": 1,
+      "scripts_before": 5,
+      "scripts_after": 1,
+      "stylesheet": "styles-cda3792d72f4.css",
+      "script": "scripts-bd03c24edfc5.js"
+    },
+    {
+      "page": "projects/yandex-maps/index.html",
+      "css_before": 12,
+      "css_after": 1,
+      "scripts_before": 5,
+      "scripts_after": 1,
+      "stylesheet": "styles-cda3792d72f4.css",
+      "script": "scripts-bd03c24edfc5.js"
+    },
+    {
+      "page": "projects/zaffiro/index.html",
+      "css_before": 12,
+      "css_after": 1,
+      "scripts_before": 5,
+      "scripts_after": 1,
+      "stylesheet": "styles-cda3792d72f4.css",
+      "script": "scripts-bd03c24edfc5.js"
+    }
+  ],
+  "fonts": [
+    {
+      "name": "regular",
+      "before": 94972,
+      "after": 30380,
+      "all_glyphs_and_metrics_match": true
+    },
+    {
+      "name": "medium",
+      "before": 95060,
+      "after": 30000,
+      "all_glyphs_and_metrics_match": true
+    },
+    {
+      "name": "semibold",
+      "before": 95096,
+      "after": 30340,
+      "all_glyphs_and_metrics_match": true
+    }
+  ],
+  "images_unchanged": true,
+  "unique_css_bundles": 4,
+  "unique_js_bundles": 3
+}
