@@ -1,0 +1,676 @@
+[
+  {
+    "closes": [
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)",
+        "type": "lightbox"
+      },
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)",
+        "type": "folio-viewer-top"
+      }
+    ],
+    "controls": [
+      {
+        "border": "rgb(27, 26, 26)",
+        "ink": "rgb(27, 26, 26)",
+        "text": "Смотреть 14 макетов",
+        "tone": "dark"
+      }
+    ],
+    "overflow": false,
+    "page": "Рекламные концепцииKINEXT",
+    "pairs": []
+  },
+  {
+    "closes": [
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)",
+        "type": "lightbox"
+      },
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)",
+        "type": "book-top"
+      }
+    ],
+    "controls": [],
+    "overflow": false,
+    "page": "БрендбукEYWA Wellness Club",
+    "pairs": []
+  },
+  {
+    "closes": [
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)",
+        "type": "lightbox"
+      },
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)",
+        "type": "folio-viewer-top"
+      }
+    ],
+    "controls": [
+      {
+        "border": "rgba(255, 255, 255, 0.376)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "Листать презентацию · 17 слайдов",
+        "tone": "light"
+      },
+      {
+        "border": "rgba(255, 255, 255, 0.396)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "Листать презентацию · 17 слайдов",
+        "tone": "light"
+      }
+    ],
+    "overflow": false,
+    "page": "Georgia / Mira VerdeДизайн презентации",
+    "pairs": []
+  },
+  {
+    "closes": [
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)",
+        "type": "lightbox"
+      },
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)",
+        "type": "folio-viewer-top"
+      }
+    ],
+    "controls": [
+      {
+        "border": "rgba(255, 255, 255, 0.376)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "Смотреть 22 макета",
+        "tone": "light"
+      },
+      {
+        "border": "rgba(255, 255, 255, 0.314)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "Смотреть 22 макета",
+        "tone": "light"
+      },
+      {
+        "border": "rgb(255, 255, 255)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "←",
+        "tone": "light"
+      },
+      {
+        "border": "rgb(255, 255, 255)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "→",
+        "tone": "light"
+      },
+      {
+        "border": "color(srgb 0.262745 0.2 0.168627 / 0.35)",
+        "ink": "rgb(23, 23, 23)",
+        "text": "Смотреть 22 макета",
+        "tone": "dark"
+      },
+      {
+        "border": "color(srgb 0.262745 0.2 0.168627 / 0.35)",
+        "ink": "rgb(23, 23, 23)",
+        "text": "←",
+        "tone": "dark"
+      },
+      {
+        "border": "color(srgb 0.262745 0.2 0.168627 / 0.35)",
+        "ink": "rgb(23, 23, 23)",
+        "text": "→",
+        "tone": "dark"
+      },
+      {
+        "border": "rgba(255, 255, 255, 0.314)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "Смотреть 22 макета",
+        "tone": "light"
+      },
+      {
+        "border": "rgb(255, 255, 255)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "←",
+        "tone": "light"
+      },
+      {
+        "border": "rgb(255, 255, 255)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "→",
+        "tone": "light"
+      },
+      {
+        "border": "color(srgb 0.262745 0.2 0.168627 / 0.35)",
+        "ink": "rgb(23, 23, 23)",
+        "text": "Смотреть 22 макета",
+        "tone": "dark"
+      }
+    ],
+    "overflow": false,
+    "page": "Zaffiro ClinicДизайн для Яндекс Карт",
+    "pairs": [
+      {
+        "height": 246.9375,
+        "width": 138.90625
+      },
+      {
+        "height": 246.96875,
+        "width": 138.921875
+      }
+    ]
+  },
+  {
+    "closes": [
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)",
+        "type": "lightbox"
+      },
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)",
+        "type": "folio-viewer-top"
+      }
+    ],
+    "controls": [
+      {
+        "border": "rgba(255, 255, 255, 0.376)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "Листать презентацию · 23 страницы",
+        "tone": "light"
+      },
+      {
+        "border": "rgb(23, 23, 23)",
+        "ink": "rgb(23, 23, 23)",
+        "text": "Листать презентацию · 23 страницы",
+        "tone": "dark"
+      },
+      {
+        "border": "color(srgb 0.0901961 0.172549 0.313726 / 0.35)",
+        "ink": "rgb(23, 23, 23)",
+        "text": "Листать презентацию · 23 страницы",
+        "tone": "dark"
+      }
+    ],
+    "overflow": false,
+    "page": "Надёжный ПосуточникКоммерческая презентация",
+    "pairs": []
+  },
+  {
+    "closes": [
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)",
+        "type": "lightbox"
+      },
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)",
+        "type": "folio-viewer-top"
+      }
+    ],
+    "controls": [
+      {
+        "border": "rgba(255, 255, 255, 0.376)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "Смотреть 4 обложки",
+        "tone": "light"
+      },
+      {
+        "border": "rgba(255, 255, 255, 0.314)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "Смотреть 4 обложки",
+        "tone": "light"
+      },
+      {
+        "border": "rgb(255, 255, 255)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "←",
+        "tone": "light"
+      },
+      {
+        "border": "rgb(255, 255, 255)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "→",
+        "tone": "light"
+      }
+    ],
+    "overflow": false,
+    "page": "Цветочный магазинДизайн обложек сторис",
+    "pairs": []
+  },
+  {
+    "closes": [
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)",
+        "type": "lightbox"
+      },
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)",
+        "type": "book-top"
+      }
+    ],
+    "controls": [],
+    "overflow": false,
+    "page": "Стратегия Роста",
+    "pairs": []
+  },
+  {
+    "closes": [
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)"
+      },
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)"
+      }
+    ],
+    "controls": [
+      {
+        "border": "rgba(255, 255, 255, 0.376)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "Смотреть 5 сторис",
+        "tone": "light"
+      },
+      {
+        "border": "rgba(255, 255, 255, 0.314)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "Смотреть 5 сторис",
+        "tone": "light"
+      },
+      {
+        "border": "rgb(255, 255, 255)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "←",
+        "tone": "light"
+      },
+      {
+        "border": "rgb(255, 255, 255)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "→",
+        "tone": "light"
+      }
+    ],
+    "overflow": false,
+    "page": "MUЯRADСторис для Яндекс Карт",
+    "pairs": []
+  },
+  {
+    "closes": [
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)"
+      },
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)"
+      }
+    ],
+    "controls": [
+      {
+        "border": "rgba(255, 255, 255, 0.376)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "Смотреть 5 макетов",
+        "tone": "light"
+      },
+      {
+        "border": "rgba(255, 255, 255, 0.314)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "Смотреть 5 макетов",
+        "tone": "light"
+      },
+      {
+        "border": "rgb(255, 255, 255)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "←",
+        "tone": "light"
+      },
+      {
+        "border": "rgb(255, 255, 255)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "→",
+        "tone": "light"
+      }
+    ],
+    "overflow": false,
+    "page": "ГорклиникаДизайн для Яндекс Карт",
+    "pairs": []
+  },
+  {
+    "closes": [
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)"
+      },
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)"
+      }
+    ],
+    "controls": [
+      {
+        "border": "rgba(255, 255, 255, 0.376)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "Смотреть 5 макетов",
+        "tone": "light"
+      },
+      {
+        "border": "rgba(255, 255, 255, 0.314)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "Смотреть 5 макетов",
+        "tone": "light"
+      },
+      {
+        "border": "rgb(255, 255, 255)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "←",
+        "tone": "light"
+      },
+      {
+        "border": "rgb(255, 255, 255)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "→",
+        "tone": "light"
+      }
+    ],
+    "overflow": false,
+    "page": "Солнечная полянаДизайн для Яндекс Карт",
+    "pairs": []
+  },
+  {
+    "closes": [
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)"
+      },
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)"
+      }
+    ],
+    "controls": [
+      {
+        "border": "rgba(255, 255, 255, 0.376)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "Смотреть 7 карточек",
+        "tone": "light"
+      },
+      {
+        "border": "rgb(23, 23, 23)",
+        "ink": "rgb(23, 23, 23)",
+        "text": "Смотреть 7 карточек",
+        "tone": "dark"
+      },
+      {
+        "border": "color(srgb 0.141176 0.121569 0.117647 / 0.35)",
+        "ink": "rgb(23, 23, 23)",
+        "text": "Смотреть 7 карточек",
+        "tone": "dark"
+      }
+    ],
+    "overflow": false,
+    "page": "EL-TERMИнфографика МП",
+    "pairs": []
+  },
+  {
+    "closes": [
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)"
+      },
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)"
+      }
+    ],
+    "controls": [
+      {
+        "border": "rgba(255, 255, 255, 0.376)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "Смотреть 9 макетов",
+        "tone": "light"
+      },
+      {
+        "border": "rgba(255, 255, 255, 0.314)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "Смотреть 9 макетов",
+        "tone": "light"
+      },
+      {
+        "border": "rgb(255, 255, 255)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "←",
+        "tone": "light"
+      },
+      {
+        "border": "rgb(255, 255, 255)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "→",
+        "tone": "light"
+      },
+      {
+        "border": "color(srgb 0.137255 0.137255 0.121569 / 0.35)",
+        "ink": "rgb(23, 23, 23)",
+        "text": "Смотреть 9 макетов",
+        "tone": "dark"
+      },
+      {
+        "border": "color(srgb 0.137255 0.137255 0.121569 / 0.35)",
+        "ink": "rgb(23, 23, 23)",
+        "text": "←",
+        "tone": "dark"
+      },
+      {
+        "border": "color(srgb 0.137255 0.137255 0.121569 / 0.35)",
+        "ink": "rgb(23, 23, 23)",
+        "text": "→",
+        "tone": "dark"
+      },
+      {
+        "border": "color(srgb 0.137255 0.137255 0.121569 / 0.35)",
+        "ink": "rgb(23, 23, 23)",
+        "text": "Смотреть 9 макетов",
+        "tone": "dark"
+      }
+    ],
+    "overflow": false,
+    "page": "TRUEMANДизайн для Яндекс Карт",
+    "pairs": [
+      {
+        "height": 246.9375,
+        "width": 138.90625
+      },
+      {
+        "height": 246.96875,
+        "width": 138.921875
+      }
+    ]
+  },
+  {
+    "closes": [
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)"
+      },
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)"
+      }
+    ],
+    "controls": [
+      {
+        "border": "rgba(255, 255, 255, 0.376)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "Смотреть 6 сторис",
+        "tone": "light"
+      },
+      {
+        "border": "rgba(255, 255, 255, 0.314)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "Смотреть 6 сторис",
+        "tone": "light"
+      },
+      {
+        "border": "rgb(255, 255, 255)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "←",
+        "tone": "light"
+      },
+      {
+        "border": "rgb(255, 255, 255)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "→",
+        "tone": "light"
+      },
+      {
+        "border": "color(srgb 0.207843 0.0745098 0.117647 / 0.35)",
+        "ink": "rgb(23, 23, 23)",
+        "text": "Смотреть 6 сторис",
+        "tone": "dark"
+      }
+    ],
+    "overflow": false,
+    "page": "Gremm FoodДизайн ресторанных сторис",
+    "pairs": [
+      {
+        "height": 208.359375,
+        "width": 138.90625
+      },
+      {
+        "height": 208.375,
+        "width": 138.921875
+      }
+    ]
+  },
+  {
+    "closes": [
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)"
+      },
+      {
+        "font": "13px",
+        "height": "44px",
+        "ink": "rgb(255, 255, 255)"
+      }
+    ],
+    "controls": [
+      {
+        "border": "rgba(255, 255, 255, 0.376)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "Смотреть 12 макетов",
+        "tone": "light"
+      },
+      {
+        "border": "rgba(255, 255, 255, 0.314)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "Смотреть 12 макетов",
+        "tone": "light"
+      },
+      {
+        "border": "rgb(255, 255, 255)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "←",
+        "tone": "light"
+      },
+      {
+        "border": "rgb(255, 255, 255)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "→",
+        "tone": "light"
+      },
+      {
+        "border": "color(srgb 0.0627451 0.164706 0.313726 / 0.35)",
+        "ink": "rgb(23, 23, 23)",
+        "text": "Смотреть 12 макетов",
+        "tone": "dark"
+      },
+      {
+        "border": "color(srgb 0.0627451 0.164706 0.313726 / 0.35)",
+        "ink": "rgb(23, 23, 23)",
+        "text": "←",
+        "tone": "dark"
+      },
+      {
+        "border": "color(srgb 0.0627451 0.164706 0.313726 / 0.35)",
+        "ink": "rgb(23, 23, 23)",
+        "text": "→",
+        "tone": "dark"
+      },
+      {
+        "border": "rgba(255, 255, 255, 0.314)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "Смотреть 12 макетов",
+        "tone": "light"
+      },
+      {
+        "border": "rgb(255, 255, 255)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "←",
+        "tone": "light"
+      },
+      {
+        "border": "rgb(255, 255, 255)",
+        "ink": "rgb(255, 255, 255)",
+        "text": "→",
+        "tone": "light"
+      },
+      {
+        "border": "color(srgb 0.0627451 0.164706 0.313726 / 0.35)",
+        "ink": "rgb(23, 23, 23)",
+        "text": "Смотреть 12 макетов",
+        "tone": "dark"
+      }
+    ],
+    "overflow": false,
+    "page": "ТризэйДизайн для Яндекс Карт",
+    "pairs": [
+      {
+        "height": 246.9375,
+        "width": 138.90625
+      },
+      {
+        "height": 246.96875,
+        "width": 138.921875
+      }
+    ]
+  }
+]

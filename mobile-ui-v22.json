@@ -1,0 +1,41 @@
+{
+  "pages": 17,
+  "pairs": [
+    "gremm-food",
+    "trizey",
+    "trueman",
+    "zaffiro"
+  ],
+  "controls": {
+    "index.html": 1,
+    "about\\index.html": 1,
+    "projects\\index.html": 1,
+    "projects\\el-term\\index.html": 2,
+    "projects\\eywa\\index.html": 2,
+    "projects\\flowers\\index.html": 2,
+    "projects\\georgia\\index.html": 2,
+    "projects\\gorclinica\\index.html": 2,
+    "projects\\gremm-food\\index.html": 2,
+    "projects\\kinext\\index.html": 2,
+    "projects\\nadezhny-posutochnik\\index.html": 2,
+    "projects\\solnechnaya-polyana\\index.html": 2,
+    "projects\\strategiya-rosta\\index.html": 2,
+    "projects\\trizey\\index.html": 2,
+    "projects\\trueman\\index.html": 2,
+    "projects\\yandex-maps\\index.html": 2,
+    "projects\\zaffiro\\index.html": 2
+  },
+  "render_images": 169,
+  "styles": {
+    "/runtime-v21/styles-1a0f275ff0b8.css": "/runtime-v22/styles-9ccf7172231f.css",
+    "/runtime-v21/styles-793dfd6f6367.css": "/runtime-v22/styles-08128772848b.css",
+    "/runtime-v21/styles-e747c9dcb853.css": "/runtime-v22/styles-42f6177949c3.css",
+    "/runtime-v21/styles-1b486210bf85.css": "/runtime-v22/styles-899981b8e938.css"
+  },
+  "scripts": {
+    "/runtime-v21/scripts-a8de5dd8e796.js": "/runtime-v22/scripts-61fb32febc07.js",
+    "/runtime-v21/scripts-5e8f212428da.js": "/runtime-v22/scripts-4174c39d3aec.js",
+    "/runtime-v21/scripts-75eb26bbc239.js": "/runtime-v22/scripts-000093abf0d3.js",
+    "/runtime-v21/scripts-638f3d96127f.js": "/runtime-v22/scripts-6e47cc08c83c.js"
+  }
+}
