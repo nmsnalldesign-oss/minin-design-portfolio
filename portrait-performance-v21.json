@@ -1,0 +1,27 @@
+{
+  "original_bytes": 6334423,
+  "original_sha256": "0b9bdfdd874f0066094c1e73e328c85e4c502b4fe2f871129631d0d6e9613904",
+  "variants": [
+    {
+      "width": 480,
+      "bytes": 152084,
+      "lossless_verified": true
+    },
+    {
+      "width": 960,
+      "bytes": 690942,
+      "lossless_verified": true
+    },
+    {
+      "width": 1440,
+      "bytes": 1798112,
+      "lossless_verified": true
+    },
+    {
+      "width": 2000,
+      "bytes": 3232458,
+      "lossless_verified": true
+    }
+  ],
+  "script": "portrait-d6c20245f3d4.js"
+}

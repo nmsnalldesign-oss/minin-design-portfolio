@@ -1,0 +1,2301 @@
+{
+  "pages": 17,
+  "lossless_encoded_variants": 75,
+  "thumbnail_sources": 231,
+  "thumbnail_full_bytes": 58141999,
+  "thumbnail_bytes": 5054638,
+  "styles": {
+    "/runtime-v20/styles-463ec9af215f.css": "/runtime-v21/styles-1a0f275ff0b8.css",
+    "/runtime-v20/styles-bc67953cbe5d.css": "/runtime-v21/styles-793dfd6f6367.css",
+    "/runtime-v20/styles-cda3792d72f4.css": "/runtime-v21/styles-e747c9dcb853.css",
+    "/runtime-v20/styles-a0ab444bd0f7.css": "/runtime-v21/styles-1b486210bf85.css"
+  },
+  "scripts": {
+    "/runtime-v20/scripts-bd03c24edfc5.js": "/runtime-v21/scripts-a8de5dd8e796.js",
+    "/runtime-v21/portrait-d6c20245f3d4.js": "/runtime-v21/scripts-5e8f212428da.js",
+    "/runtime-v20/scripts-eff1b54f7668.js": "/runtime-v21/scripts-75eb26bbc239.js",
+    "/runtime-v20/scripts-f5231e50db0d.js": "/runtime-v21/scripts-638f3d96127f.js"
+  },
+  "images": [
+    {
+      "source": "/assets/eywa-01.webp",
+      "width": 1500,
+      "original_bytes": 18664,
+      "thumb": "/assets/responsive-v21/b4d228c44a3b-thumb.webp",
+      "thumb_bytes": 2482,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa-12.webp",
+      "width": 1500,
+      "original_bytes": 89110,
+      "thumb": "/assets/responsive-v21/1548ef092f39-thumb.webp",
+      "thumb_bytes": 8364,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa-08.webp",
+      "width": 1500,
+      "original_bytes": 46946,
+      "thumb": "/assets/responsive-v21/082d9b75088c-thumb.webp",
+      "thumb_bytes": 4252,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa-10.webp",
+      "width": 1500,
+      "original_bytes": 58544,
+      "thumb": "/assets/responsive-v21/5554a1bf8cf3-thumb.webp",
+      "thumb_bytes": 6964,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa-14.webp",
+      "width": 1500,
+      "original_bytes": 83990,
+      "thumb": "/assets/responsive-v21/2e4f602c87a4-thumb.webp",
+      "thumb_bytes": 6474,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa-13.webp",
+      "width": 1500,
+      "original_bytes": 65470,
+      "thumb": "/assets/responsive-v21/bfb03b617d78-thumb.webp",
+      "thumb_bytes": 5800,
+      "variants": []
+    },
+    {
+      "source": "/assets/georgia-01.webp",
+      "width": 1500,
+      "original_bytes": 157782,
+      "thumb": "/assets/responsive-v21/cd7dbf77ce13-thumb.webp",
+      "thumb_bytes": 17572,
+      "variants": []
+    },
+    {
+      "source": "/assets/georgia-02.webp",
+      "width": 1500,
+      "original_bytes": 135398,
+      "thumb": "/assets/responsive-v21/d3c8cdeade37-thumb.webp",
+      "thumb_bytes": 17502,
+      "variants": []
+    },
+    {
+      "source": "/assets/georgia-03.webp",
+      "width": 1500,
+      "original_bytes": 51118,
+      "thumb": "/assets/responsive-v21/2081fb9f3476-thumb.webp",
+      "thumb_bytes": 10058,
+      "variants": []
+    },
+    {
+      "source": "/assets/georgia-04.webp",
+      "width": 1500,
+      "original_bytes": 68816,
+      "thumb": "/assets/responsive-v21/56ba811b714f-thumb.webp",
+      "thumb_bytes": 8886,
+      "variants": []
+    },
+    {
+      "source": "/assets/georgia-05.webp",
+      "width": 1500,
+      "original_bytes": 65808,
+      "thumb": "/assets/responsive-v21/9d07d70bea89-thumb.webp",
+      "thumb_bytes": 11430,
+      "variants": []
+    },
+    {
+      "source": "/assets/georgia-06.webp",
+      "width": 1500,
+      "original_bytes": 75680,
+      "thumb": "/assets/responsive-v21/ac2f8f1d5717-thumb.webp",
+      "thumb_bytes": 12188,
+      "variants": []
+    },
+    {
+      "source": "/assets/georgia-07.webp",
+      "width": 1500,
+      "original_bytes": 46734,
+      "thumb": "/assets/responsive-v21/ef1e3e25e5cd-thumb.webp",
+      "thumb_bytes": 7566,
+      "variants": []
+    },
+    {
+      "source": "/assets/georgia-09.webp",
+      "width": 1500,
+      "original_bytes": 17118,
+      "thumb": "/assets/responsive-v21/7764d1188905-thumb.webp",
+      "thumb_bytes": 1726,
+      "variants": []
+    },
+    {
+      "source": "/assets/georgia-08.webp",
+      "width": 1500,
+      "original_bytes": 68756,
+      "thumb": "/assets/responsive-v21/86e9c2a2f522-thumb.webp",
+      "thumb_bytes": 11738,
+      "variants": []
+    },
+    {
+      "source": "/assets/georgia-13.webp",
+      "width": 1500,
+      "original_bytes": 191346,
+      "thumb": "/assets/responsive-v21/3190baed4c72-thumb.webp",
+      "thumb_bytes": 17918,
+      "variants": []
+    },
+    {
+      "source": "/assets/georgia-12.webp",
+      "width": 1500,
+      "original_bytes": 196230,
+      "thumb": "/assets/responsive-v21/72218716a7ec-thumb.webp",
+      "thumb_bytes": 18974,
+      "variants": []
+    },
+    {
+      "source": "/assets/georgia-14.webp",
+      "width": 1500,
+      "original_bytes": 89560,
+      "thumb": "/assets/responsive-v21/56ff5d9408e9-thumb.webp",
+      "thumb_bytes": 12660,
+      "variants": []
+    },
+    {
+      "source": "/assets/georgia-16.webp",
+      "width": 1500,
+      "original_bytes": 86400,
+      "thumb": "/assets/responsive-v21/2ff6a19f20b7-thumb.webp",
+      "thumb_bytes": 11336,
+      "variants": []
+    },
+    {
+      "source": "/assets/georgia-17.webp",
+      "width": 1500,
+      "original_bytes": 112282,
+      "thumb": "/assets/responsive-v21/ddbe9b04ab3a-thumb.webp",
+      "thumb_bytes": 13412,
+      "variants": []
+    },
+    {
+      "source": "/assets/growth-01.webp",
+      "width": 1500,
+      "original_bytes": 92218,
+      "thumb": "/assets/responsive-v21/9bb00fc15dbd-thumb.webp",
+      "thumb_bytes": 19562,
+      "variants": []
+    },
+    {
+      "source": "/assets/growth-02.webp",
+      "width": 1500,
+      "original_bytes": 102792,
+      "thumb": "/assets/responsive-v21/04e3c5079774-thumb.webp",
+      "thumb_bytes": 18272,
+      "variants": []
+    },
+    {
+      "source": "/assets/growth-03.webp",
+      "width": 1500,
+      "original_bytes": 89194,
+      "thumb": "/assets/responsive-v21/9eb2829c505a-thumb.webp",
+      "thumb_bytes": 12952,
+      "variants": []
+    },
+    {
+      "source": "/assets/growth-04.webp",
+      "width": 1500,
+      "original_bytes": 135702,
+      "thumb": "/assets/responsive-v21/6ce73a78fe6e-thumb.webp",
+      "thumb_bytes": 22174,
+      "variants": []
+    },
+    {
+      "source": "/assets/growth-05.webp",
+      "width": 1500,
+      "original_bytes": 149546,
+      "thumb": "/assets/responsive-v21/b42556dfe631-thumb.webp",
+      "thumb_bytes": 24268,
+      "variants": []
+    },
+    {
+      "source": "/assets/growth-06.webp",
+      "width": 1500,
+      "original_bytes": 97886,
+      "thumb": "/assets/responsive-v21/70731871aa32-thumb.webp",
+      "thumb_bytes": 17302,
+      "variants": []
+    },
+    {
+      "source": "/assets/georgia-10.webp",
+      "width": 1500,
+      "original_bytes": 168096,
+      "thumb": "/assets/responsive-v21/f0bd1a0b1956-thumb.webp",
+      "thumb_bytes": 18494,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/f0bd1a0b1956-480.webp",
+          "bytes": 127828
+        }
+      ]
+    },
+    {
+      "source": "/assets/georgia-11.webp",
+      "width": 1500,
+      "original_bytes": 213190,
+      "thumb": "/assets/responsive-v21/32de1ddf6f18-thumb.webp",
+      "thumb_bytes": 19034,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/32de1ddf6f18-480.webp",
+          "bytes": 140026
+        }
+      ]
+    },
+    {
+      "source": "/assets/growth-07.webp",
+      "width": 1500,
+      "original_bytes": 175816,
+      "thumb": "/assets/responsive-v21/4d0e12e877aa-thumb.webp",
+      "thumb_bytes": 31758,
+      "variants": []
+    },
+    {
+      "source": "/assets/georgia-15.webp",
+      "width": 1500,
+      "original_bytes": 149690,
+      "thumb": "/assets/responsive-v21/c8fc07f6ff24-thumb.webp",
+      "thumb_bytes": 13950,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/c8fc07f6ff24-480.webp",
+          "bytes": 96980
+        }
+      ]
+    },
+    {
+      "source": "/assets/growth-08.webp",
+      "width": 1500,
+      "original_bytes": 107216,
+      "thumb": "/assets/responsive-v21/21280ce143d6-thumb.webp",
+      "thumb_bytes": 19388,
+      "variants": []
+    },
+    {
+      "source": "/assets/growth-09.webp",
+      "width": 1500,
+      "original_bytes": 140354,
+      "thumb": "/assets/responsive-v21/f152178bac2d-thumb.webp",
+      "thumb_bytes": 21250,
+      "variants": []
+    },
+    {
+      "source": "/assets/growth-10.webp",
+      "width": 1500,
+      "original_bytes": 138486,
+      "thumb": "/assets/responsive-v21/65f955a23397-thumb.webp",
+      "thumb_bytes": 19610,
+      "variants": []
+    },
+    {
+      "source": "/assets/growth-11.webp",
+      "width": 1500,
+      "original_bytes": 98190,
+      "thumb": "/assets/responsive-v21/2f9536103bcb-thumb.webp",
+      "thumb_bytes": 17790,
+      "variants": []
+    },
+    {
+      "source": "/assets/growth-12.webp",
+      "width": 1500,
+      "original_bytes": 83876,
+      "thumb": "/assets/responsive-v21/2c49843832ca-thumb.webp",
+      "thumb_bytes": 16184,
+      "variants": []
+    },
+    {
+      "source": "/assets/growth-13.webp",
+      "width": 1500,
+      "original_bytes": 135308,
+      "thumb": "/assets/responsive-v21/e6aa0b6dd332-thumb.webp",
+      "thumb_bytes": 18084,
+      "variants": []
+    },
+    {
+      "source": "/assets/growth-14.webp",
+      "width": 1500,
+      "original_bytes": 183444,
+      "thumb": "/assets/responsive-v21/374d09e386c2-thumb.webp",
+      "thumb_bytes": 29100,
+      "variants": []
+    },
+    {
+      "source": "/assets/murad-grill.webp",
+      "width": 1280,
+      "original_bytes": 237120,
+      "thumb": "/assets/responsive-v21/f9608c16f604-thumb.webp",
+      "thumb_bytes": 50548,
+      "variants": []
+    },
+    {
+      "source": "/assets/murad-breakfast.webp",
+      "width": 1280,
+      "original_bytes": 536984,
+      "thumb": "/assets/responsive-v21/23f210f96fbe-thumb.webp",
+      "thumb_bytes": 59822,
+      "variants": []
+    },
+    {
+      "source": "/assets/murad-cuisine.webp",
+      "width": 1280,
+      "original_bytes": 545540,
+      "thumb": "/assets/responsive-v21/54d883147b19-thumb.webp",
+      "thumb_bytes": 56912,
+      "variants": []
+    },
+    {
+      "source": "/assets/murad-pizza.webp",
+      "width": 1280,
+      "original_bytes": 236956,
+      "thumb": "/assets/responsive-v21/6a87bf7a888c-thumb.webp",
+      "thumb_bytes": 53074,
+      "variants": []
+    },
+    {
+      "source": "/assets/nikita-portrait-v14.png",
+      "width": 2000,
+      "original_bytes": 6334423,
+      "thumb": "/assets/responsive-v21/0bdf4fffc787-thumb.webp",
+      "thumb_bytes": 16754,
+      "variants": []
+    },
+    {
+      "source": "/assets/el-term/work-02.webp",
+      "width": 1800,
+      "original_bytes": 115652,
+      "thumb": "/assets/responsive-v21/29648aca9f21-thumb.webp",
+      "thumb_bytes": 14476,
+      "variants": []
+    },
+    {
+      "source": "/assets/murad-steak.webp",
+      "width": 1280,
+      "original_bytes": 502036,
+      "thumb": "/assets/responsive-v21/361a2be2b7e5-thumb.webp",
+      "thumb_bytes": 51608,
+      "variants": []
+    },
+    {
+      "source": "/assets/el-term/work-01.webp",
+      "width": 1800,
+      "original_bytes": 159952,
+      "thumb": "/assets/responsive-v21/919339bfc583-thumb.webp",
+      "thumb_bytes": 20696,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/919339bfc583-480.webp",
+          "bytes": 103658
+        }
+      ]
+    },
+    {
+      "source": "/assets/el-term/work-03.webp",
+      "width": 1800,
+      "original_bytes": 152638,
+      "thumb": "/assets/responsive-v21/b1d8cc402c41-thumb.webp",
+      "thumb_bytes": 16894,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/b1d8cc402c41-480.webp",
+          "bytes": 89000
+        }
+      ]
+    },
+    {
+      "source": "/assets/el-term/work-06.webp",
+      "width": 1800,
+      "original_bytes": 133428,
+      "thumb": "/assets/responsive-v21/334396deb04d-thumb.webp",
+      "thumb_bytes": 14864,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/envelope.webp",
+      "width": 950,
+      "original_bytes": 38822,
+      "thumb": "/assets/responsive-v21/1a17baa1b65a-thumb.webp",
+      "thumb_bytes": 11594,
+      "variants": []
+    },
+    {
+      "source": "/assets/el-term/work-04.webp",
+      "width": 1800,
+      "original_bytes": 153526,
+      "thumb": "/assets/responsive-v21/036761cabe3c-thumb.webp",
+      "thumb_bytes": 22484,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/036761cabe3c-480.webp",
+          "bytes": 104742
+        }
+      ]
+    },
+    {
+      "source": "/assets/eywa/letterhead.webp",
+      "width": 950,
+      "original_bytes": 168294,
+      "thumb": "/assets/responsive-v21/4e9596bbcef2-thumb.webp",
+      "thumb_bytes": 11678,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/4e9596bbcef2-480.webp",
+          "bytes": 96640
+        }
+      ]
+    },
+    {
+      "source": "/assets/eywa/notebook.webp",
+      "width": 950,
+      "original_bytes": 127636,
+      "thumb": "/assets/responsive-v21/a9c925386f8f-thumb.webp",
+      "thumb_bytes": 15990,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/page-01.webp",
+      "width": 1920,
+      "original_bytes": 35808,
+      "thumb": "/assets/responsive-v21/3d70888bafff-thumb.webp",
+      "thumb_bytes": 2400,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/page-02.webp",
+      "width": 1920,
+      "original_bytes": 95342,
+      "thumb": "/assets/responsive-v21/1e1c73da660a-thumb.webp",
+      "thumb_bytes": 5214,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/page-03.webp",
+      "width": 1920,
+      "original_bytes": 179408,
+      "thumb": "/assets/responsive-v21/cfb3c53eb053-thumb.webp",
+      "thumb_bytes": 10484,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/page-04.webp",
+      "width": 1920,
+      "original_bytes": 151042,
+      "thumb": "/assets/responsive-v21/8b649e148fa3-thumb.webp",
+      "thumb_bytes": 10414,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/page-05.webp",
+      "width": 1920,
+      "original_bytes": 126474,
+      "thumb": "/assets/responsive-v21/3a7fa5a7dec6-thumb.webp",
+      "thumb_bytes": 6920,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/page-06.webp",
+      "width": 1920,
+      "original_bytes": 104058,
+      "thumb": "/assets/responsive-v21/f7477d2fd113-thumb.webp",
+      "thumb_bytes": 8644,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/page-07.webp",
+      "width": 1920,
+      "original_bytes": 152386,
+      "thumb": "/assets/responsive-v21/03f8323fb313-thumb.webp",
+      "thumb_bytes": 7364,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/page-08.webp",
+      "width": 1920,
+      "original_bytes": 78150,
+      "thumb": "/assets/responsive-v21/7ff9a50b0cec-thumb.webp",
+      "thumb_bytes": 4606,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/page-09.webp",
+      "width": 1920,
+      "original_bytes": 127316,
+      "thumb": "/assets/responsive-v21/f4c12cd904c8-thumb.webp",
+      "thumb_bytes": 7008,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/page-10.webp",
+      "width": 1920,
+      "original_bytes": 101182,
+      "thumb": "/assets/responsive-v21/e71ce2cbe495-thumb.webp",
+      "thumb_bytes": 7882,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/page-11.webp",
+      "width": 1920,
+      "original_bytes": 106762,
+      "thumb": "/assets/responsive-v21/e7d326d16839-thumb.webp",
+      "thumb_bytes": 7900,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/page-12.webp",
+      "width": 1920,
+      "original_bytes": 150644,
+      "thumb": "/assets/responsive-v21/61dae0c8468b-thumb.webp",
+      "thumb_bytes": 9134,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/page-13.webp",
+      "width": 1920,
+      "original_bytes": 107842,
+      "thumb": "/assets/responsive-v21/c904788fd249-thumb.webp",
+      "thumb_bytes": 6214,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/page-14.webp",
+      "width": 1920,
+      "original_bytes": 152220,
+      "thumb": "/assets/responsive-v21/80d3f1d02330-thumb.webp",
+      "thumb_bytes": 6902,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/page-15.webp",
+      "width": 1920,
+      "original_bytes": 161340,
+      "thumb": "/assets/responsive-v21/be7882759d16-thumb.webp",
+      "thumb_bytes": 11142,
+      "variants": []
+    },
+    {
+      "source": "/assets/el-term/work-05.webp",
+      "width": 1800,
+      "original_bytes": 372720,
+      "thumb": "/assets/responsive-v21/a4e968cf9213-thumb.webp",
+      "thumb_bytes": 25260,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/a4e968cf9213-480.webp",
+          "bytes": 170906
+        }
+      ]
+    },
+    {
+      "source": "/assets/eywa/page-16.webp",
+      "width": 1920,
+      "original_bytes": 262658,
+      "thumb": "/assets/responsive-v21/7d504741bb46-thumb.webp",
+      "thumb_bytes": 7606,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/hoodies-complete.webp",
+      "width": 1698,
+      "original_bytes": 173808,
+      "thumb": "/assets/responsive-v21/feda4dbaecf4-thumb.webp",
+      "thumb_bytes": 19658,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/feda4dbaecf4-480.webp",
+          "bytes": 127384
+        }
+      ]
+    },
+    {
+      "source": "/assets/eywa/page-17.webp",
+      "width": 1920,
+      "original_bytes": 60336,
+      "thumb": "/assets/responsive-v21/f95c897a2075-thumb.webp",
+      "thumb_bytes": 5694,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/page-18.webp",
+      "width": 1920,
+      "original_bytes": 78386,
+      "thumb": "/assets/responsive-v21/1c700cddfc48-thumb.webp",
+      "thumb_bytes": 6438,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/page-19.webp",
+      "width": 1920,
+      "original_bytes": 109446,
+      "thumb": "/assets/responsive-v21/eafdc4121f89-thumb.webp",
+      "thumb_bytes": 10380,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/page-20.webp",
+      "width": 1920,
+      "original_bytes": 146402,
+      "thumb": "/assets/responsive-v21/a9b85ff84da5-thumb.webp",
+      "thumb_bytes": 6926,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/page-22.webp",
+      "width": 1920,
+      "original_bytes": 13172,
+      "thumb": "/assets/responsive-v21/aa8912df6f8e-thumb.webp",
+      "thumb_bytes": 692,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/page-21.webp",
+      "width": 1920,
+      "original_bytes": 129854,
+      "thumb": "/assets/responsive-v21/c8aed480c079-thumb.webp",
+      "thumb_bytes": 8776,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/thumb-01.webp",
+      "width": 320,
+      "original_bytes": 2850,
+      "thumb": "/assets/responsive-v21/48010d2edf7a-thumb.webp",
+      "thumb_bytes": 2816,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/thumb-02.webp",
+      "width": 320,
+      "original_bytes": 7038,
+      "thumb": "/assets/responsive-v21/e44e7bd66a6a-thumb.webp",
+      "thumb_bytes": 5516,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/shirts-complete.webp",
+      "width": 1569,
+      "original_bytes": 97460,
+      "thumb": "/assets/responsive-v21/7ea820baca44-thumb.webp",
+      "thumb_bytes": 13572,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/stationery.webp",
+      "width": 950,
+      "original_bytes": 94134,
+      "thumb": "/assets/responsive-v21/f15e5e8b3db8-thumb.webp",
+      "thumb_bytes": 20542,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/thumb-03.webp",
+      "width": 320,
+      "original_bytes": 11918,
+      "thumb": "/assets/responsive-v21/4b26586c5d14-thumb.webp",
+      "thumb_bytes": 9802,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/thumb-04.webp",
+      "width": 320,
+      "original_bytes": 11434,
+      "thumb": "/assets/responsive-v21/5529ba6f3ede-thumb.webp",
+      "thumb_bytes": 9618,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/thumb-05.webp",
+      "width": 320,
+      "original_bytes": 10582,
+      "thumb": "/assets/responsive-v21/338f5e54e520-thumb.webp",
+      "thumb_bytes": 7466,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/thumb-06.webp",
+      "width": 320,
+      "original_bytes": 9958,
+      "thumb": "/assets/responsive-v21/445bc39f79b9-thumb.webp",
+      "thumb_bytes": 7780,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/thumb-07.webp",
+      "width": 320,
+      "original_bytes": 11922,
+      "thumb": "/assets/responsive-v21/51977b9735c4-thumb.webp",
+      "thumb_bytes": 7664,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/thumb-08.webp",
+      "width": 320,
+      "original_bytes": 6300,
+      "thumb": "/assets/responsive-v21/2fb3a7d72463-thumb.webp",
+      "thumb_bytes": 4726,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/thumb-09.webp",
+      "width": 320,
+      "original_bytes": 10590,
+      "thumb": "/assets/responsive-v21/db8137707972-thumb.webp",
+      "thumb_bytes": 7718,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/thumb-10.webp",
+      "width": 320,
+      "original_bytes": 8588,
+      "thumb": "/assets/responsive-v21/fa0a32fd7af7-thumb.webp",
+      "thumb_bytes": 7598,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/thumb-12.webp",
+      "width": 320,
+      "original_bytes": 12224,
+      "thumb": "/assets/responsive-v21/b3eea7ed544a-thumb.webp",
+      "thumb_bytes": 8860,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/thumb-11.webp",
+      "width": 320,
+      "original_bytes": 9876,
+      "thumb": "/assets/responsive-v21/a4be95674894-thumb.webp",
+      "thumb_bytes": 7754,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/thumb-13.webp",
+      "width": 320,
+      "original_bytes": 9360,
+      "thumb": "/assets/responsive-v21/b26afbe56aeb-thumb.webp",
+      "thumb_bytes": 6298,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/thumb-14.webp",
+      "width": 320,
+      "original_bytes": 10120,
+      "thumb": "/assets/responsive-v21/3b2c0ddc6368-thumb.webp",
+      "thumb_bytes": 6684,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/thumb-15.webp",
+      "width": 320,
+      "original_bytes": 11224,
+      "thumb": "/assets/responsive-v21/0895a868a81f-thumb.webp",
+      "thumb_bytes": 10236,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/thumb-17.webp",
+      "width": 320,
+      "original_bytes": 3996,
+      "thumb": "/assets/responsive-v21/c9ee7ead1b6c-thumb.webp",
+      "thumb_bytes": 5506,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/thumb-16.webp",
+      "width": 320,
+      "original_bytes": 6352,
+      "thumb": "/assets/responsive-v21/131769840407-thumb.webp",
+      "thumb_bytes": 5666,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/thumb-18.webp",
+      "width": 320,
+      "original_bytes": 5888,
+      "thumb": "/assets/responsive-v21/154f0e725196-thumb.webp",
+      "thumb_bytes": 6770,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/thumb-20.webp",
+      "width": 320,
+      "original_bytes": 5030,
+      "thumb": "/assets/responsive-v21/fe8be0c69eea-thumb.webp",
+      "thumb_bytes": 5588,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/thumb-19.webp",
+      "width": 320,
+      "original_bytes": 9228,
+      "thumb": "/assets/responsive-v21/8222d737dac2-thumb.webp",
+      "thumb_bytes": 8962,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/thumb-22.webp",
+      "width": 320,
+      "original_bytes": 922,
+      "thumb": "/assets/responsive-v21/04ee919f3016-thumb.webp",
+      "thumb_bytes": 856,
+      "variants": []
+    },
+    {
+      "source": "/assets/eywa/thumb-21.webp",
+      "width": 320,
+      "original_bytes": 5538,
+      "thumb": "/assets/responsive-v21/7cc2fb056852-thumb.webp",
+      "thumb_bytes": 6778,
+      "variants": []
+    },
+    {
+      "source": "/assets/flowers/story-02.webp",
+      "width": 1016,
+      "original_bytes": 98540,
+      "thumb": "/assets/responsive-v21/8a7fdfb4dfe2-thumb.webp",
+      "thumb_bytes": 33238,
+      "variants": []
+    },
+    {
+      "source": "/assets/flowers/story-03.webp",
+      "width": 1016,
+      "original_bytes": 114662,
+      "thumb": "/assets/responsive-v21/60ee73a488b1-thumb.webp",
+      "thumb_bytes": 38794,
+      "variants": []
+    },
+    {
+      "source": "/assets/el-term/work-07.webp",
+      "width": 1800,
+      "original_bytes": 272176,
+      "thumb": "/assets/responsive-v21/661794a30064-thumb.webp",
+      "thumb_bytes": 24592,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/661794a30064-480.webp",
+          "bytes": 148098
+        }
+      ]
+    },
+    {
+      "source": "/assets/generated-covers-v12/el-term-640.webp",
+      "width": 640,
+      "original_bytes": 32174,
+      "thumb": "/assets/responsive-v21/e6a761f1a293-thumb.webp",
+      "thumb_bytes": 26018,
+      "variants": []
+    },
+    {
+      "source": "/assets/generated-covers-v12/eywa-640.webp",
+      "width": 640,
+      "original_bytes": 89850,
+      "thumb": "/assets/responsive-v21/f144b8e070a4-thumb.webp",
+      "thumb_bytes": 31954,
+      "variants": []
+    },
+    {
+      "source": "/assets/generated-covers-v12/el-term.webp",
+      "width": 1254,
+      "original_bytes": 113084,
+      "thumb": "/assets/responsive-v21/0a1ece5b45ab-thumb.webp",
+      "thumb_bytes": 26490,
+      "variants": [],
+      "fallback": "/assets/responsive-v21/0a1ece5b45ab-fallback.png"
+    },
+    {
+      "source": "/assets/generated-covers-v12/eywa.webp",
+      "width": 1254,
+      "original_bytes": 418252,
+      "thumb": "/assets/responsive-v21/e57cc9f853af-thumb.webp",
+      "thumb_bytes": 32322,
+      "variants": [],
+      "fallback": "/assets/responsive-v21/e57cc9f853af-fallback.png"
+    },
+    {
+      "source": "/assets/generated-covers-v12/flowers-640.webp",
+      "width": 640,
+      "original_bytes": 44840,
+      "thumb": "/assets/responsive-v21/a801899adc3c-thumb.webp",
+      "thumb_bytes": 31404,
+      "variants": []
+    },
+    {
+      "source": "/assets/generated-covers-v12/georgia-640.webp",
+      "width": 640,
+      "original_bytes": 93202,
+      "thumb": "/assets/responsive-v21/2ff3193eb7ec-thumb.webp",
+      "thumb_bytes": 38398,
+      "variants": []
+    },
+    {
+      "source": "/assets/generated-covers-v12/flowers.webp",
+      "width": 1254,
+      "original_bytes": 152662,
+      "thumb": "/assets/responsive-v21/5639d917d201-thumb.webp",
+      "thumb_bytes": 31976,
+      "variants": [],
+      "fallback": "/assets/responsive-v21/5639d917d201-fallback.png"
+    },
+    {
+      "source": "/assets/generated-covers-v12/gorclinica-640.webp",
+      "width": 640,
+      "original_bytes": 32324,
+      "thumb": "/assets/responsive-v21/2fa98ae6b906-thumb.webp",
+      "thumb_bytes": 26552,
+      "variants": []
+    },
+    {
+      "source": "/assets/generated-covers-v12/georgia.webp",
+      "width": 1254,
+      "original_bytes": 335576,
+      "thumb": "/assets/responsive-v21/d85224fbea8f-thumb.webp",
+      "thumb_bytes": 38632,
+      "variants": [],
+      "fallback": "/assets/responsive-v21/d85224fbea8f-fallback.png"
+    },
+    {
+      "source": "/assets/generated-covers-v12/gremm-food-640.webp",
+      "width": 640,
+      "original_bytes": 73256,
+      "thumb": "/assets/responsive-v21/35232c85fba5-thumb.webp",
+      "thumb_bytes": 35866,
+      "variants": []
+    },
+    {
+      "source": "/assets/flowers/story-04.webp",
+      "width": 1016,
+      "original_bytes": 140012,
+      "thumb": "/assets/responsive-v21/935f10738e3f-thumb.webp",
+      "thumb_bytes": 37560,
+      "variants": []
+    },
+    {
+      "source": "/assets/flowers/story-01.webp",
+      "width": 1016,
+      "original_bytes": 199418,
+      "thumb": "/assets/responsive-v21/8ca7ad10d345-thumb.webp",
+      "thumb_bytes": 48382,
+      "variants": []
+    },
+    {
+      "source": "/assets/generated-covers-v12/nadezhny-posutochnik-640.webp",
+      "width": 640,
+      "original_bytes": 91488,
+      "thumb": "/assets/responsive-v21/a3725384c8ce-thumb.webp",
+      "thumb_bytes": 38998,
+      "variants": []
+    },
+    {
+      "source": "/assets/generated-covers-v12/solnechnaya-polyana-640.webp",
+      "width": 640,
+      "original_bytes": 107102,
+      "thumb": "/assets/responsive-v21/c149e6ee9a8a-thumb.webp",
+      "thumb_bytes": 43422,
+      "variants": []
+    },
+    {
+      "source": "/assets/generated-covers-v12/gorclinica.webp",
+      "width": 1254,
+      "original_bytes": 90812,
+      "thumb": "/assets/responsive-v21/040656f4be6f-thumb.webp",
+      "thumb_bytes": 27070,
+      "variants": [],
+      "fallback": "/assets/responsive-v21/040656f4be6f-fallback.png"
+    },
+    {
+      "source": "/assets/generated-covers-v12/trizey-640.webp",
+      "width": 640,
+      "original_bytes": 63272,
+      "thumb": "/assets/responsive-v21/359e469405d1-thumb.webp",
+      "thumb_bytes": 38092,
+      "variants": []
+    },
+    {
+      "source": "/assets/generated-covers-v12/gremm-food.webp",
+      "width": 1254,
+      "original_bytes": 250398,
+      "thumb": "/assets/responsive-v21/833a93814cc1-thumb.webp",
+      "thumb_bytes": 37508,
+      "variants": [],
+      "fallback": "/assets/responsive-v21/833a93814cc1-fallback.png"
+    },
+    {
+      "source": "/assets/generated-covers-v12/nadezhny-posutochnik.webp",
+      "width": 1254,
+      "original_bytes": 291874,
+      "thumb": "/assets/responsive-v21/fc91799b13f4-thumb.webp",
+      "thumb_bytes": 38458,
+      "variants": [],
+      "fallback": "/assets/responsive-v21/fc91799b13f4-fallback.png"
+    },
+    {
+      "source": "/assets/generated-covers-v12/zaffiro-640.webp",
+      "width": 640,
+      "original_bytes": 92362,
+      "thumb": "/assets/responsive-v21/d026e4cb3df2-thumb.webp",
+      "thumb_bytes": 40792,
+      "variants": []
+    },
+    {
+      "source": "/assets/generated-covers-v12/solnechnaya-polyana.webp",
+      "width": 1254,
+      "original_bytes": 318806,
+      "thumb": "/assets/responsive-v21/e7adf83c6ece-thumb.webp",
+      "thumb_bytes": 43506,
+      "variants": [],
+      "fallback": "/assets/responsive-v21/e7adf83c6ece-fallback.png"
+    },
+    {
+      "source": "/assets/generated-covers-v12/trizey.webp",
+      "width": 1254,
+      "original_bytes": 176832,
+      "thumb": "/assets/responsive-v21/7bf296567ffb-thumb.webp",
+      "thumb_bytes": 39714,
+      "variants": [],
+      "fallback": "/assets/responsive-v21/7bf296567ffb-fallback.png"
+    },
+    {
+      "source": "/assets/generated-covers-v12/zaffiro.webp",
+      "width": 1254,
+      "original_bytes": 300036,
+      "thumb": "/assets/responsive-v21/ab1e5f3cfcc6-thumb.webp",
+      "thumb_bytes": 40090,
+      "variants": [],
+      "fallback": "/assets/responsive-v21/ab1e5f3cfcc6-fallback.png"
+    },
+    {
+      "source": "/assets/generated-v15/kinext.webp",
+      "width": 1254,
+      "original_bytes": 232054,
+      "thumb": "/assets/responsive-v21/a2c6086411a9-thumb.webp",
+      "thumb_bytes": 34642,
+      "variants": [],
+      "fallback": "/assets/responsive-v21/a2c6086411a9-fallback.png"
+    },
+    {
+      "source": "/assets/generated-v15/murad.webp",
+      "width": 1254,
+      "original_bytes": 381486,
+      "thumb": "/assets/responsive-v21/3f98b863b51c-thumb.webp",
+      "thumb_bytes": 37006,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/3f98b863b51c-480.webp",
+          "bytes": 303006
+        }
+      ],
+      "fallback": "/assets/responsive-v21/3f98b863b51c-fallback.png"
+    },
+    {
+      "source": "/assets/gorclinica/banner.webp",
+      "width": 1806,
+      "original_bytes": 94572,
+      "thumb": "/assets/responsive-v21/09d44bcbfadd-thumb.webp",
+      "thumb_bytes": 14762,
+      "variants": []
+    },
+    {
+      "source": "/assets/gorclinica/story-01.webp",
+      "width": 1016,
+      "original_bytes": 125826,
+      "thumb": "/assets/responsive-v21/86541349f531-thumb.webp",
+      "thumb_bytes": 33066,
+      "variants": []
+    },
+    {
+      "source": "/assets/gorclinica/story-02.webp",
+      "width": 1016,
+      "original_bytes": 111124,
+      "thumb": "/assets/responsive-v21/8fb72081009a-thumb.webp",
+      "thumb_bytes": 30290,
+      "variants": []
+    },
+    {
+      "source": "/assets/gorclinica/story-03.webp",
+      "width": 1016,
+      "original_bytes": 117742,
+      "thumb": "/assets/responsive-v21/12bd866b629f-thumb.webp",
+      "thumb_bytes": 31132,
+      "variants": []
+    },
+    {
+      "source": "/assets/gorclinica/story-04.webp",
+      "width": 1016,
+      "original_bytes": 95966,
+      "thumb": "/assets/responsive-v21/376cf223b919-thumb.webp",
+      "thumb_bytes": 31836,
+      "variants": []
+    },
+    {
+      "source": "/assets/generated-v15/trueman.webp",
+      "width": 1254,
+      "original_bytes": 309362,
+      "thumb": "/assets/responsive-v21/e3327200b853-thumb.webp",
+      "thumb_bytes": 32852,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/e3327200b853-480.webp",
+          "bytes": 246034
+        }
+      ],
+      "fallback": "/assets/responsive-v21/e3327200b853-fallback.png"
+    },
+    {
+      "source": "/assets/gremm-food/work-01.webp",
+      "width": 1280,
+      "original_bytes": 197746,
+      "thumb": "/assets/responsive-v21/57fe5e941530-thumb.webp",
+      "thumb_bytes": 24072,
+      "variants": []
+    },
+    {
+      "source": "/assets/gremm-food/work-02.webp",
+      "width": 1280,
+      "original_bytes": 245622,
+      "thumb": "/assets/responsive-v21/54b3c23115e8-thumb.webp",
+      "thumb_bytes": 40610,
+      "variants": []
+    },
+    {
+      "source": "/assets/gremm-food/work-05.webp",
+      "width": 1280,
+      "original_bytes": 23892,
+      "thumb": "/assets/responsive-v21/cb618108f1f4-thumb.webp",
+      "thumb_bytes": 9176,
+      "variants": []
+    },
+    {
+      "source": "/assets/gremm-food/work-03.webp",
+      "width": 1280,
+      "original_bytes": 372404,
+      "thumb": "/assets/responsive-v21/8f9989c8e0f3-thumb.webp",
+      "thumb_bytes": 58312,
+      "variants": []
+    },
+    {
+      "source": "/assets/growth-start/page-01.webp",
+      "width": 1275,
+      "original_bytes": 73906,
+      "thumb": "/assets/responsive-v21/a042acd20aad-thumb.webp",
+      "thumb_bytes": 18796,
+      "variants": []
+    },
+    {
+      "source": "/assets/growth-start/page-02.webp",
+      "width": 1275,
+      "original_bytes": 67524,
+      "thumb": "/assets/responsive-v21/98125eefdb8c-thumb.webp",
+      "thumb_bytes": 12648,
+      "variants": []
+    },
+    {
+      "source": "/assets/growth-start/page-03.webp",
+      "width": 1275,
+      "original_bytes": 149192,
+      "thumb": "/assets/responsive-v21/7344bbee8743-thumb.webp",
+      "thumb_bytes": 23158,
+      "variants": []
+    },
+    {
+      "source": "/assets/growth-start/page-04.webp",
+      "width": 1275,
+      "original_bytes": 121806,
+      "thumb": "/assets/responsive-v21/349f2a027211-thumb.webp",
+      "thumb_bytes": 19146,
+      "variants": []
+    },
+    {
+      "source": "/assets/growth-start/page-05.webp",
+      "width": 1275,
+      "original_bytes": 219282,
+      "thumb": "/assets/responsive-v21/ebf8d0d88a2f-thumb.webp",
+      "thumb_bytes": 33164,
+      "variants": []
+    },
+    {
+      "source": "/assets/generated-v18/growth-cover-v18.png",
+      "width": 1254,
+      "original_bytes": 1647498,
+      "thumb": "/assets/responsive-v21/dd6db57d33e5-thumb.webp",
+      "thumb_bytes": 24066,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/dd6db57d33e5-480.webp",
+          "bytes": 196902
+        },
+        {
+          "width": 720,
+          "src": "/assets/responsive-v21/dd6db57d33e5-720.webp",
+          "bytes": 442830
+        },
+        {
+          "width": 960,
+          "src": "/assets/responsive-v21/dd6db57d33e5-960.webp",
+          "bytes": 780390
+        },
+        {
+          "width": 1254,
+          "src": "/assets/responsive-v21/dd6db57d33e5-1254.webp",
+          "bytes": 1211672
+        }
+      ],
+      "fallback": "/assets/responsive-v21/dd6db57d33e5-fallback.png"
+    },
+    {
+      "source": "/assets/growth-start/page-07.webp",
+      "width": 1275,
+      "original_bytes": 62068,
+      "thumb": "/assets/responsive-v21/07c5190c6cea-thumb.webp",
+      "thumb_bytes": 8360,
+      "variants": []
+    },
+    {
+      "source": "/assets/growth-start/page-06.webp",
+      "width": 1275,
+      "original_bytes": 91472,
+      "thumb": "/assets/responsive-v21/f3d5566b54c7-thumb.webp",
+      "thumb_bytes": 16224,
+      "variants": []
+    },
+    {
+      "source": "/assets/kinext-v14/portrait-01.webp",
+      "width": 420,
+      "original_bytes": 43886,
+      "thumb": "/assets/responsive-v21/b3cb946397ac-thumb.webp",
+      "thumb_bytes": 34806,
+      "variants": []
+    },
+    {
+      "source": "/assets/kinext-v14/portrait-02.webp",
+      "width": 420,
+      "original_bytes": 37094,
+      "thumb": "/assets/responsive-v21/4a0dbb1cafad-thumb.webp",
+      "thumb_bytes": 28748,
+      "variants": []
+    },
+    {
+      "source": "/assets/kinext-v14/portrait-04.webp",
+      "width": 420,
+      "original_bytes": 52016,
+      "thumb": "/assets/responsive-v21/907b21a0457e-thumb.webp",
+      "thumb_bytes": 33354,
+      "variants": []
+    },
+    {
+      "source": "/assets/kinext-v14/portrait-05.webp",
+      "width": 420,
+      "original_bytes": 53392,
+      "thumb": "/assets/responsive-v21/3395f31771ef-thumb.webp",
+      "thumb_bytes": 40218,
+      "variants": []
+    },
+    {
+      "source": "/assets/kinext-v14/portrait-06.webp",
+      "width": 420,
+      "original_bytes": 38186,
+      "thumb": "/assets/responsive-v21/7511809fe8b1-thumb.webp",
+      "thumb_bytes": 36948,
+      "variants": []
+    },
+    {
+      "source": "/assets/kinext-v14/portrait-07.webp",
+      "width": 420,
+      "original_bytes": 44290,
+      "thumb": "/assets/responsive-v21/24c497631390-thumb.webp",
+      "thumb_bytes": 38598,
+      "variants": []
+    },
+    {
+      "source": "/assets/kinext-v14/portrait-08.webp",
+      "width": 420,
+      "original_bytes": 29318,
+      "thumb": "/assets/responsive-v21/4cd02d0add17-thumb.webp",
+      "thumb_bytes": 14324,
+      "variants": []
+    },
+    {
+      "source": "/assets/gremm-food/work-04.webp",
+      "width": 1280,
+      "original_bytes": 405056,
+      "thumb": "/assets/responsive-v21/b522194d466d-thumb.webp",
+      "thumb_bytes": 53350,
+      "variants": []
+    },
+    {
+      "source": "/assets/gremm-food/work-06.webp",
+      "width": 1280,
+      "original_bytes": 429528,
+      "thumb": "/assets/responsive-v21/2396fa3c7792-thumb.webp",
+      "thumb_bytes": 60698,
+      "variants": []
+    },
+    {
+      "source": "/assets/kinext-v14/wide-02.webp",
+      "width": 1920,
+      "original_bytes": 468964,
+      "thumb": "/assets/responsive-v21/5fae6754d3e2-thumb.webp",
+      "thumb_bytes": 16196,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/5fae6754d3e2-480.webp",
+          "bytes": 134288
+        },
+        {
+          "width": 720,
+          "src": "/assets/responsive-v21/5fae6754d3e2-720.webp",
+          "bytes": 307036
+        }
+      ]
+    },
+    {
+      "source": "/assets/kinext-v14/wide-03.webp",
+      "width": 1920,
+      "original_bytes": 311060,
+      "thumb": "/assets/responsive-v21/0c5f8ee849ab-thumb.webp",
+      "thumb_bytes": 17364,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/0c5f8ee849ab-480.webp",
+          "bytes": 117874
+        },
+        {
+          "width": 720,
+          "src": "/assets/responsive-v21/0c5f8ee849ab-720.webp",
+          "bytes": 255664
+        }
+      ]
+    },
+    {
+      "source": "/assets/kinext-v14/wide-01.webp",
+      "width": 1920,
+      "original_bytes": 324538,
+      "thumb": "/assets/responsive-v21/953e84856021-thumb.webp",
+      "thumb_bytes": 14940,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/953e84856021-480.webp",
+          "bytes": 123828
+        },
+        {
+          "width": 720,
+          "src": "/assets/responsive-v21/953e84856021-720.webp",
+          "bytes": 268546
+        }
+      ]
+    },
+    {
+      "source": "/assets/kinext-v14/wide-07.webp",
+      "width": 1920,
+      "original_bytes": 126902,
+      "thumb": "/assets/responsive-v21/1f79704aa3c3-thumb.webp",
+      "thumb_bytes": 7214,
+      "variants": []
+    },
+    {
+      "source": "/assets/kinext-v14/wide-04.webp",
+      "width": 1920,
+      "original_bytes": 338308,
+      "thumb": "/assets/responsive-v21/fc920630dcf9-thumb.webp",
+      "thumb_bytes": 15234,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/fc920630dcf9-480.webp",
+          "bytes": 118060
+        },
+        {
+          "width": 720,
+          "src": "/assets/responsive-v21/fc920630dcf9-720.webp",
+          "bytes": 251266
+        }
+      ]
+    },
+    {
+      "source": "/assets/trizey/work-01.webp",
+      "width": 1080,
+      "original_bytes": 133764,
+      "thumb": "/assets/responsive-v21/f75d1cb2b3e0-thumb.webp",
+      "thumb_bytes": 37684,
+      "variants": []
+    },
+    {
+      "source": "/assets/trizey/work-02.webp",
+      "width": 1080,
+      "original_bytes": 139544,
+      "thumb": "/assets/responsive-v21/7a2d64ed7f2f-thumb.webp",
+      "thumb_bytes": 39274,
+      "variants": []
+    },
+    {
+      "source": "/assets/trizey/work-03.webp",
+      "width": 1080,
+      "original_bytes": 100668,
+      "thumb": "/assets/responsive-v21/19261bf0f3a7-thumb.webp",
+      "thumb_bytes": 36650,
+      "variants": []
+    },
+    {
+      "source": "/assets/kinext-v14/wide-05.webp",
+      "width": 1920,
+      "original_bytes": 312150,
+      "thumb": "/assets/responsive-v21/cca92e3aab56-thumb.webp",
+      "thumb_bytes": 12758,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/cca92e3aab56-480.webp",
+          "bytes": 97852
+        },
+        {
+          "width": 720,
+          "src": "/assets/responsive-v21/cca92e3aab56-720.webp",
+          "bytes": 220290
+        }
+      ]
+    },
+    {
+      "source": "/assets/solnechnaya-polyana/story-03.webp",
+      "width": 1016,
+      "original_bytes": 339566,
+      "thumb": "/assets/responsive-v21/2ef500452dae-thumb.webp",
+      "thumb_bytes": 46732,
+      "variants": []
+    },
+    {
+      "source": "/assets/kinext-v14/wide-06.webp",
+      "width": 1920,
+      "original_bytes": 201298,
+      "thumb": "/assets/responsive-v21/a949941a8dbb-thumb.webp",
+      "thumb_bytes": 18572,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/a949941a8dbb-480.webp",
+          "bytes": 126284
+        }
+      ]
+    },
+    {
+      "source": "/assets/trizey/work-04.webp",
+      "width": 1510,
+      "original_bytes": 190280,
+      "thumb": "/assets/responsive-v21/b3a6742aea10-thumb.webp",
+      "thumb_bytes": 34288,
+      "variants": []
+    },
+    {
+      "source": "/assets/trizey/work-07.webp",
+      "width": 1510,
+      "original_bytes": 270488,
+      "thumb": "/assets/responsive-v21/38836540b4a6-thumb.webp",
+      "thumb_bytes": 31296,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/38836540b4a6-480.webp",
+          "bytes": 193272
+        }
+      ]
+    },
+    {
+      "source": "/assets/trizey/work-05.webp",
+      "width": 1510,
+      "original_bytes": 263752,
+      "thumb": "/assets/responsive-v21/2b747080250a-thumb.webp",
+      "thumb_bytes": 33536,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/2b747080250a-480.webp",
+          "bytes": 216292
+        }
+      ]
+    },
+    {
+      "source": "/assets/trizey/work-06.webp",
+      "width": 1510,
+      "original_bytes": 273298,
+      "thumb": "/assets/responsive-v21/5e03c56883ad-thumb.webp",
+      "thumb_bytes": 31236,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/5e03c56883ad-480.webp",
+          "bytes": 201806
+        }
+      ]
+    },
+    {
+      "source": "/assets/trizey/work-09.webp",
+      "width": 1510,
+      "original_bytes": 136364,
+      "thumb": "/assets/responsive-v21/728eb2e0342b-thumb.webp",
+      "thumb_bytes": 27962,
+      "variants": []
+    },
+    {
+      "source": "/assets/trizey/work-12.webp",
+      "width": 1920,
+      "original_bytes": 164816,
+      "thumb": "/assets/responsive-v21/a829e8fe47dd-thumb.webp",
+      "thumb_bytes": 16732,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/a829e8fe47dd-480.webp",
+          "bytes": 91170
+        }
+      ]
+    },
+    {
+      "source": "/assets/trizey/work-10.webp",
+      "width": 1920,
+      "original_bytes": 295388,
+      "thumb": "/assets/responsive-v21/9d79414751ff-thumb.webp",
+      "thumb_bytes": 19724,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/9d79414751ff-480.webp",
+          "bytes": 125334
+        }
+      ]
+    },
+    {
+      "source": "/assets/trueman/work-01.webp",
+      "width": 1080,
+      "original_bytes": 108204,
+      "thumb": "/assets/responsive-v21/ae9edbfe3565-thumb.webp",
+      "thumb_bytes": 27558,
+      "variants": []
+    },
+    {
+      "source": "/assets/trizey/work-11.webp",
+      "width": 1920,
+      "original_bytes": 226404,
+      "thumb": "/assets/responsive-v21/0d6be5394b81-thumb.webp",
+      "thumb_bytes": 19158,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/0d6be5394b81-480.webp",
+          "bytes": 115726
+        }
+      ]
+    },
+    {
+      "source": "/assets/trueman/work-02.webp",
+      "width": 1080,
+      "original_bytes": 115782,
+      "thumb": "/assets/responsive-v21/0f4b10df67c7-thumb.webp",
+      "thumb_bytes": 30316,
+      "variants": []
+    },
+    {
+      "source": "/assets/trueman/work-03.webp",
+      "width": 1080,
+      "original_bytes": 69858,
+      "thumb": "/assets/responsive-v21/f74b9159e40f-thumb.webp",
+      "thumb_bytes": 21054,
+      "variants": []
+    },
+    {
+      "source": "/assets/trizey/work-08.webp",
+      "width": 1510,
+      "original_bytes": 311510,
+      "thumb": "/assets/responsive-v21/6043b802787f-thumb.webp",
+      "thumb_bytes": 28676,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/6043b802787f-480.webp",
+          "bytes": 184776
+        }
+      ]
+    },
+    {
+      "source": "/assets/trueman/work-04.webp",
+      "width": 1080,
+      "original_bytes": 102148,
+      "thumb": "/assets/responsive-v21/58174148c408-thumb.webp",
+      "thumb_bytes": 31880,
+      "variants": []
+    },
+    {
+      "source": "/assets/trueman/work-05.webp",
+      "width": 1080,
+      "original_bytes": 89806,
+      "thumb": "/assets/responsive-v21/190d70b30678-thumb.webp",
+      "thumb_bytes": 30018,
+      "variants": []
+    },
+    {
+      "source": "/assets/trueman/work-06.webp",
+      "width": 1510,
+      "original_bytes": 186654,
+      "thumb": "/assets/responsive-v21/d7be92adf7cf-thumb.webp",
+      "thumb_bytes": 24250,
+      "variants": []
+    },
+    {
+      "source": "/assets/trueman/work-08.webp",
+      "width": 1510,
+      "original_bytes": 196372,
+      "thumb": "/assets/responsive-v21/d3e3a26770d8-thumb.webp",
+      "thumb_bytes": 25888,
+      "variants": []
+    },
+    {
+      "source": "/assets/trueman/work-09.webp",
+      "width": 1510,
+      "original_bytes": 200060,
+      "thumb": "/assets/responsive-v21/8e58a47a4e68-thumb.webp",
+      "thumb_bytes": 25350,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/8e58a47a4e68-480.webp",
+          "bytes": 165240
+        }
+      ]
+    },
+    {
+      "source": "/assets/trueman/work-07.webp",
+      "width": 1510,
+      "original_bytes": 215556,
+      "thumb": "/assets/responsive-v21/5b78edc6b95c-thumb.webp",
+      "thumb_bytes": 25224,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/5b78edc6b95c-480.webp",
+          "bytes": 174274
+        }
+      ]
+    },
+    {
+      "source": "/assets/zaffiro/work-01.webp",
+      "width": 1080,
+      "original_bytes": 171076,
+      "thumb": "/assets/responsive-v21/a2c7019b625b-thumb.webp",
+      "thumb_bytes": 47670,
+      "variants": []
+    },
+    {
+      "source": "/assets/zaffiro/work-03.webp",
+      "width": 1080,
+      "original_bytes": 176642,
+      "thumb": "/assets/responsive-v21/8b4f90241b52-thumb.webp",
+      "thumb_bytes": 46060,
+      "variants": []
+    },
+    {
+      "source": "/assets/zaffiro/work-02.webp",
+      "width": 1080,
+      "original_bytes": 171184,
+      "thumb": "/assets/responsive-v21/93afd1b61018-thumb.webp",
+      "thumb_bytes": 48562,
+      "variants": []
+    },
+    {
+      "source": "/assets/zaffiro/work-04.webp",
+      "width": 1080,
+      "original_bytes": 268954,
+      "thumb": "/assets/responsive-v21/0536bc4af390-thumb.webp",
+      "thumb_bytes": 49292,
+      "variants": []
+    },
+    {
+      "source": "/assets/zaffiro/work-05.webp",
+      "width": 1080,
+      "original_bytes": 221222,
+      "thumb": "/assets/responsive-v21/4ead7d267986-thumb.webp",
+      "thumb_bytes": 45268,
+      "variants": []
+    },
+    {
+      "source": "/assets/zaffiro/work-07.webp",
+      "width": 1080,
+      "original_bytes": 150780,
+      "thumb": "/assets/responsive-v21/9a18993416d6-thumb.webp",
+      "thumb_bytes": 47822,
+      "variants": []
+    },
+    {
+      "source": "/assets/zaffiro/work-06.webp",
+      "width": 1080,
+      "original_bytes": 327568,
+      "thumb": "/assets/responsive-v21/43df296bd5f7-thumb.webp",
+      "thumb_bytes": 55390,
+      "variants": []
+    },
+    {
+      "source": "/assets/zaffiro/work-08.webp",
+      "width": 1080,
+      "original_bytes": 168846,
+      "thumb": "/assets/responsive-v21/071fa4243a89-thumb.webp",
+      "thumb_bytes": 46222,
+      "variants": []
+    },
+    {
+      "source": "/assets/zaffiro/work-10.webp",
+      "width": 1510,
+      "original_bytes": 134272,
+      "thumb": "/assets/responsive-v21/7171da0cd97d-thumb.webp",
+      "thumb_bytes": 28042,
+      "variants": []
+    },
+    {
+      "source": "/assets/zaffiro/work-09.webp",
+      "width": 1510,
+      "original_bytes": 147726,
+      "thumb": "/assets/responsive-v21/bd9595fc0e23-thumb.webp",
+      "thumb_bytes": 23894,
+      "variants": []
+    },
+    {
+      "source": "/assets/zaffiro/work-11.webp",
+      "width": 1510,
+      "original_bytes": 162556,
+      "thumb": "/assets/responsive-v21/09f2c9266b31-thumb.webp",
+      "thumb_bytes": 26308,
+      "variants": []
+    },
+    {
+      "source": "/assets/zaffiro/work-13.webp",
+      "width": 1510,
+      "original_bytes": 169958,
+      "thumb": "/assets/responsive-v21/134b59664560-thumb.webp",
+      "thumb_bytes": 26158,
+      "variants": []
+    },
+    {
+      "source": "/assets/zaffiro/work-12.webp",
+      "width": 1510,
+      "original_bytes": 307250,
+      "thumb": "/assets/responsive-v21/ae3f47669e37-thumb.webp",
+      "thumb_bytes": 27696,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/ae3f47669e37-480.webp",
+          "bytes": 190786
+        }
+      ]
+    },
+    {
+      "source": "/assets/zaffiro/work-14.webp",
+      "width": 1510,
+      "original_bytes": 166610,
+      "thumb": "/assets/responsive-v21/a8b8ecf6bb4a-thumb.webp",
+      "thumb_bytes": 27186,
+      "variants": []
+    },
+    {
+      "source": "/assets/zaffiro/work-15.webp",
+      "width": 1510,
+      "original_bytes": 191322,
+      "thumb": "/assets/responsive-v21/f73e8d9b978a-thumb.webp",
+      "thumb_bytes": 26246,
+      "variants": []
+    },
+    {
+      "source": "/assets/zaffiro/work-16.webp",
+      "width": 1510,
+      "original_bytes": 228480,
+      "thumb": "/assets/responsive-v21/2378a53703aa-thumb.webp",
+      "thumb_bytes": 23598,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/2378a53703aa-480.webp",
+          "bytes": 156834
+        }
+      ]
+    },
+    {
+      "source": "/assets/zaffiro/work-20.webp",
+      "width": 1920,
+      "original_bytes": 119144,
+      "thumb": "/assets/responsive-v21/7427cbc22c52-thumb.webp",
+      "thumb_bytes": 15118,
+      "variants": []
+    },
+    {
+      "source": "/assets/zaffiro/work-17.webp",
+      "width": 1510,
+      "original_bytes": 171650,
+      "thumb": "/assets/responsive-v21/4ee50e44116b-thumb.webp",
+      "thumb_bytes": 27348,
+      "variants": []
+    },
+    {
+      "source": "/assets/zaffiro/work-19.webp",
+      "width": 1920,
+      "original_bytes": 170874,
+      "thumb": "/assets/responsive-v21/87874582c8a8-thumb.webp",
+      "thumb_bytes": 15806,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/87874582c8a8-480.webp",
+          "bytes": 93026
+        }
+      ]
+    },
+    {
+      "source": "/assets/zaffiro/work-21.webp",
+      "width": 1920,
+      "original_bytes": 151226,
+      "thumb": "/assets/responsive-v21/fdfe66d65a6f-thumb.webp",
+      "thumb_bytes": 16020,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/fdfe66d65a6f-480.webp",
+          "bytes": 91490
+        }
+      ]
+    },
+    {
+      "source": "/assets/edge-crops-v15/nadezhny-posutochnik/work-02.webp",
+      "width": 1851,
+      "original_bytes": 155076,
+      "thumb": "/assets/responsive-v21/ab472ac71bb5-thumb.webp",
+      "thumb_bytes": 5018,
+      "variants": []
+    },
+    {
+      "source": "/assets/zaffiro/work-22.webp",
+      "width": 1920,
+      "original_bytes": 143104,
+      "thumb": "/assets/responsive-v21/8f16bbe04b00-thumb.webp",
+      "thumb_bytes": 15296,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/8f16bbe04b00-480.webp",
+          "bytes": 96096
+        }
+      ]
+    },
+    {
+      "source": "/assets/edge-crops-v15/nadezhny-posutochnik/work-05.webp",
+      "width": 1851,
+      "original_bytes": 634368,
+      "thumb": "/assets/responsive-v21/8ab09b6fe51f-thumb.webp",
+      "thumb_bytes": 11020,
+      "variants": []
+    },
+    {
+      "source": "/assets/zaffiro/work-18.webp",
+      "width": 1510,
+      "original_bytes": 156214,
+      "thumb": "/assets/responsive-v21/be5996418434-thumb.webp",
+      "thumb_bytes": 26458,
+      "variants": []
+    },
+    {
+      "source": "/assets/edge-crops-v15/nadezhny-posutochnik/work-07.webp",
+      "width": 1851,
+      "original_bytes": 225108,
+      "thumb": "/assets/responsive-v21/cd0e4b093c7b-thumb.webp",
+      "thumb_bytes": 5912,
+      "variants": []
+    },
+    {
+      "source": "/assets/edge-crops-v15/nadezhny-posutochnik/work-08.webp",
+      "width": 1851,
+      "original_bytes": 338048,
+      "thumb": "/assets/responsive-v21/819ba644971b-thumb.webp",
+      "thumb_bytes": 9104,
+      "variants": []
+    },
+    {
+      "source": "/assets/edge-crops-v15/nadezhny-posutochnik/work-09.webp",
+      "width": 1851,
+      "original_bytes": 1145212,
+      "thumb": "/assets/responsive-v21/81077acd0f2b-thumb.webp",
+      "thumb_bytes": 25200,
+      "variants": []
+    },
+    {
+      "source": "/assets/edge-crops-v15/nadezhny-posutochnik/work-10.webp",
+      "width": 1851,
+      "original_bytes": 218790,
+      "thumb": "/assets/responsive-v21/deeb6318b388-thumb.webp",
+      "thumb_bytes": 6116,
+      "variants": []
+    },
+    {
+      "source": "/assets/edge-crops-v15/nadezhny-posutochnik/work-04.webp",
+      "width": 1851,
+      "original_bytes": 224568,
+      "thumb": "/assets/responsive-v21/0ebbc998cd0c-thumb.webp",
+      "thumb_bytes": 6956,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/0ebbc998cd0c-480.webp",
+          "bytes": 33524
+        },
+        {
+          "width": 720,
+          "src": "/assets/responsive-v21/0ebbc998cd0c-720.webp",
+          "bytes": 60696
+        },
+        {
+          "width": 960,
+          "src": "/assets/responsive-v21/0ebbc998cd0c-960.webp",
+          "bytes": 92484
+        },
+        {
+          "width": 1440,
+          "src": "/assets/responsive-v21/0ebbc998cd0c-1440.webp",
+          "bytes": 176430
+        }
+      ]
+    },
+    {
+      "source": "/assets/edge-crops-v15/nadezhny-posutochnik/work-11.webp",
+      "width": 1851,
+      "original_bytes": 282412,
+      "thumb": "/assets/responsive-v21/3aab2fb2b6de-thumb.webp",
+      "thumb_bytes": 9300,
+      "variants": []
+    },
+    {
+      "source": "/assets/edge-crops-v15/nadezhny-posutochnik/work-12.webp",
+      "width": 1851,
+      "original_bytes": 334618,
+      "thumb": "/assets/responsive-v21/6d5f395143b6-thumb.webp",
+      "thumb_bytes": 7648,
+      "variants": []
+    },
+    {
+      "source": "/assets/edge-crops-v15/nadezhny-posutochnik/work-14.webp",
+      "width": 1851,
+      "original_bytes": 296332,
+      "thumb": "/assets/responsive-v21/033235d9924e-thumb.webp",
+      "thumb_bytes": 8340,
+      "variants": []
+    },
+    {
+      "source": "/assets/edge-crops-v15/nadezhny-posutochnik/work-06.webp",
+      "width": 1851,
+      "original_bytes": 210068,
+      "thumb": "/assets/responsive-v21/a11eb39f0abb-thumb.webp",
+      "thumb_bytes": 6604,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/a11eb39f0abb-480.webp",
+          "bytes": 33368
+        },
+        {
+          "width": 720,
+          "src": "/assets/responsive-v21/a11eb39f0abb-720.webp",
+          "bytes": 56468
+        },
+        {
+          "width": 960,
+          "src": "/assets/responsive-v21/a11eb39f0abb-960.webp",
+          "bytes": 84580
+        },
+        {
+          "width": 1440,
+          "src": "/assets/responsive-v21/a11eb39f0abb-1440.webp",
+          "bytes": 155864
+        }
+      ]
+    },
+    {
+      "source": "/assets/edge-crops-v15/nadezhny-posutochnik/work-16.webp",
+      "width": 1851,
+      "original_bytes": 1127890,
+      "thumb": "/assets/responsive-v21/980a262e7707-thumb.webp",
+      "thumb_bytes": 22902,
+      "variants": []
+    },
+    {
+      "source": "/assets/edge-crops-v15/nadezhny-posutochnik/work-17.webp",
+      "width": 1851,
+      "original_bytes": 805408,
+      "thumb": "/assets/responsive-v21/5f0838d229f0-thumb.webp",
+      "thumb_bytes": 19076,
+      "variants": []
+    },
+    {
+      "source": "/assets/edge-crops-v15/nadezhny-posutochnik/work-01.webp",
+      "width": 1851,
+      "original_bytes": 1259414,
+      "thumb": "/assets/responsive-v21/890b4fb70c05-thumb.webp",
+      "thumb_bytes": 23442,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/890b4fb70c05-480.webp",
+          "bytes": 160428
+        },
+        {
+          "width": 720,
+          "src": "/assets/responsive-v21/890b4fb70c05-720.webp",
+          "bytes": 310268
+        },
+        {
+          "width": 960,
+          "src": "/assets/responsive-v21/890b4fb70c05-960.webp",
+          "bytes": 483798
+        },
+        {
+          "width": 1440,
+          "src": "/assets/responsive-v21/890b4fb70c05-1440.webp",
+          "bytes": 919990
+        }
+      ]
+    },
+    {
+      "source": "/assets/edge-crops-v15/nadezhny-posutochnik/work-18.webp",
+      "width": 1851,
+      "original_bytes": 1122008,
+      "thumb": "/assets/responsive-v21/43740526fb7b-thumb.webp",
+      "thumb_bytes": 21390,
+      "variants": []
+    },
+    {
+      "source": "/assets/edge-crops-v15/nadezhny-posutochnik/work-19.webp",
+      "width": 1851,
+      "original_bytes": 109304,
+      "thumb": "/assets/responsive-v21/2ae16294beac-thumb.webp",
+      "thumb_bytes": 4478,
+      "variants": []
+    },
+    {
+      "source": "/assets/edge-crops-v15/nadezhny-posutochnik/work-21.webp",
+      "width": 1851,
+      "original_bytes": 1180196,
+      "thumb": "/assets/responsive-v21/7b7e618297e4-thumb.webp",
+      "thumb_bytes": 14674,
+      "variants": []
+    },
+    {
+      "source": "/assets/edge-crops-v15/nadezhny-posutochnik/work-22.webp",
+      "width": 1851,
+      "original_bytes": 1080484,
+      "thumb": "/assets/responsive-v21/ccb9e028661d-thumb.webp",
+      "thumb_bytes": 15114,
+      "variants": []
+    },
+    {
+      "source": "/assets/edge-crops-v15/nadezhny-posutochnik/work-23.webp",
+      "width": 1851,
+      "original_bytes": 250862,
+      "thumb": "/assets/responsive-v21/294faf8fcec3-thumb.webp",
+      "thumb_bytes": 7420,
+      "variants": []
+    },
+    {
+      "source": "/assets/edge-crops-v15/nadezhny-posutochnik/work-25.webp",
+      "width": 1851,
+      "original_bytes": 1221366,
+      "thumb": "/assets/responsive-v21/9426c1ec573a-thumb.webp",
+      "thumb_bytes": 22454,
+      "variants": []
+    },
+    {
+      "source": "/assets/edge-crops-v15/nadezhny-posutochnik/work-15.webp",
+      "width": 1851,
+      "original_bytes": 804700,
+      "thumb": "/assets/responsive-v21/6b5ecce4157a-thumb.webp",
+      "thumb_bytes": 13226,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/6b5ecce4157a-480.webp",
+          "bytes": 82636
+        },
+        {
+          "width": 720,
+          "src": "/assets/responsive-v21/6b5ecce4157a-720.webp",
+          "bytes": 167914
+        },
+        {
+          "width": 960,
+          "src": "/assets/responsive-v21/6b5ecce4157a-960.webp",
+          "bytes": 273946
+        },
+        {
+          "width": 1440,
+          "src": "/assets/responsive-v21/6b5ecce4157a-1440.webp",
+          "bytes": 563126
+        }
+      ]
+    },
+    {
+      "source": "/assets/edge-crops-v15/nadezhny-posutochnik/work-13.webp",
+      "width": 1851,
+      "original_bytes": 1340190,
+      "thumb": "/assets/responsive-v21/9ed7c9d172a4-thumb.webp",
+      "thumb_bytes": 24410,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/9ed7c9d172a4-480.webp",
+          "bytes": 161854
+        },
+        {
+          "width": 720,
+          "src": "/assets/responsive-v21/9ed7c9d172a4-720.webp",
+          "bytes": 325328
+        },
+        {
+          "width": 960,
+          "src": "/assets/responsive-v21/9ed7c9d172a4-960.webp",
+          "bytes": 507322
+        },
+        {
+          "width": 1440,
+          "src": "/assets/responsive-v21/9ed7c9d172a4-1440.webp",
+          "bytes": 968264
+        }
+      ]
+    },
+    {
+      "source": "/assets/edge-crops-v15/nadezhny-posutochnik/work-20.webp",
+      "width": 1851,
+      "original_bytes": 1118056,
+      "thumb": "/assets/responsive-v21/c50dc5fd1de8-thumb.webp",
+      "thumb_bytes": 13196,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/c50dc5fd1de8-480.webp",
+          "bytes": 92942
+        },
+        {
+          "width": 720,
+          "src": "/assets/responsive-v21/c50dc5fd1de8-720.webp",
+          "bytes": 199396
+        },
+        {
+          "width": 960,
+          "src": "/assets/responsive-v21/c50dc5fd1de8-960.webp",
+          "bytes": 339982
+        },
+        {
+          "width": 1440,
+          "src": "/assets/responsive-v21/c50dc5fd1de8-1440.webp",
+          "bytes": 742026
+        }
+      ]
+    },
+    {
+      "source": "/assets/edge-crops-v15/solnechnaya-polyana/banner.webp",
+      "width": 1802,
+      "original_bytes": 1833630,
+      "thumb": "/assets/responsive-v21/2b4dbcc81e29-thumb.webp",
+      "thumb_bytes": 25574,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/2b4dbcc81e29-480.webp",
+          "bytes": 196262
+        },
+        {
+          "width": 720,
+          "src": "/assets/responsive-v21/2b4dbcc81e29-720.webp",
+          "bytes": 411288
+        },
+        {
+          "width": 960,
+          "src": "/assets/responsive-v21/2b4dbcc81e29-960.webp",
+          "bytes": 674536
+        },
+        {
+          "width": 1440,
+          "src": "/assets/responsive-v21/2b4dbcc81e29-1440.webp",
+          "bytes": 1348482
+        }
+      ]
+    },
+    {
+      "source": "/assets/edge-crops-v15/solnechnaya-polyana/story-01.webp",
+      "width": 1010,
+      "original_bytes": 1287198,
+      "thumb": "/assets/responsive-v21/04ebb53d6ad7-thumb.webp",
+      "thumb_bytes": 55160,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/04ebb53d6ad7-480.webp",
+          "bytes": 386810
+        },
+        {
+          "width": 720,
+          "src": "/assets/responsive-v21/04ebb53d6ad7-720.webp",
+          "bytes": 765698
+        }
+      ]
+    },
+    {
+      "source": "/assets/edge-crops-v15/solnechnaya-polyana/story-02.webp",
+      "width": 1010,
+      "original_bytes": 1093402,
+      "thumb": "/assets/responsive-v21/629fe3b6b538-thumb.webp",
+      "thumb_bytes": 45842,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/629fe3b6b538-480.webp",
+          "bytes": 329820
+        },
+        {
+          "width": 720,
+          "src": "/assets/responsive-v21/629fe3b6b538-720.webp",
+          "bytes": 665884
+        }
+      ]
+    },
+    {
+      "source": "/assets/edge-crops-v15/solnechnaya-polyana/story-04.webp",
+      "width": 1010,
+      "original_bytes": 1307760,
+      "thumb": "/assets/responsive-v21/1be55bfb74ff-thumb.webp",
+      "thumb_bytes": 50346,
+      "variants": [
+        {
+          "width": 480,
+          "src": "/assets/responsive-v21/1be55bfb74ff-480.webp",
+          "bytes": 379266
+        },
+        {
+          "width": 720,
+          "src": "/assets/responsive-v21/1be55bfb74ff-720.webp",
+          "bytes": 775160
+        }
+      ]
+    }
+  ]
+}
