@@ -1,0 +1,83 @@
+{
+  "runtime": {
+    "/runtime-v23/scripts-18d4e7d94580.js": "/runtime-v24/scripts-04e040bc01a4.js",
+    "/runtime-v23/scripts-735a9ff1420a.js": "/runtime-v24/scripts-e1da4e21919e.js",
+    "/runtime-v23/scripts-c25883275e74.js": "/runtime-v24/scripts-811cfc77b28c.js",
+    "/runtime-v23/scripts-d7979d1fcb61.js": "/runtime-v24/scripts-802769836aed.js",
+    "/runtime-v23/styles-05fb5322fd3c.css": "/runtime-v24/styles-a4fa6b317c31.css",
+    "/runtime-v23/styles-491b9ed2c5a6.css": "/runtime-v24/styles-7fb9a4b21450.css",
+    "/runtime-v23/styles-b09a1f0ce408.css": "/runtime-v24/styles-1dcaa6b1ff45.css",
+    "/runtime-v23/styles-f9a0bf958bb9.css": "/runtime-v24/styles-03c76a79f6e7.css"
+  },
+  "pages": [
+    {
+      "page": "index.html",
+      "adaptive_images": 14
+    },
+    {
+      "page": "about/index.html",
+      "adaptive_images": 1
+    },
+    {
+      "page": "projects/index.html",
+      "adaptive_images": 14
+    },
+    {
+      "page": "projects/el-term/index.html",
+      "adaptive_images": 8
+    },
+    {
+      "page": "projects/eywa/index.html",
+      "adaptive_images": 12
+    },
+    {
+      "page": "projects/flowers/index.html",
+      "adaptive_images": 7
+    },
+    {
+      "page": "projects/georgia/index.html",
+      "adaptive_images": 7
+    },
+    {
+      "page": "projects/gorclinica/index.html",
+      "adaptive_images": 8
+    },
+    {
+      "page": "projects/gremm-food/index.html",
+      "adaptive_images": 8
+    },
+    {
+      "page": "projects/kinext/index.html",
+      "adaptive_images": 11
+    },
+    {
+      "page": "projects/nadezhny-posutochnik/index.html",
+      "adaptive_images": 7
+    },
+    {
+      "page": "projects/solnechnaya-polyana/index.html",
+      "adaptive_images": 8
+    },
+    {
+      "page": "projects/strategiya-rosta/index.html",
+      "adaptive_images": 8
+    },
+    {
+      "page": "projects/trizey/index.html",
+      "adaptive_images": 14
+    },
+    {
+      "page": "projects/trueman/index.html",
+      "adaptive_images": 11
+    },
+    {
+      "page": "projects/yandex-maps/index.html",
+      "adaptive_images": 8
+    },
+    {
+      "page": "projects/zaffiro/index.html",
+      "adaptive_images": 24
+    }
+  ],
+  "image_mode": "WebP quality 94; originals preserved"
+}

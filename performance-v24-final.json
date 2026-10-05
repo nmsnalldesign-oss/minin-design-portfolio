@@ -1,0 +1,13 @@
+{
+  "active_js_remap": {
+    "/runtime-v24/scripts-04e040bc01a4.js": "/runtime-v24/scripts-df7a62ba15cc.js",
+    "/runtime-v24/scripts-e1da4e21919e.js": "/runtime-v24/scripts-0def3af46d3a.js",
+    "/runtime-v24/scripts-811cfc77b28c.js": "/runtime-v24/scripts-79e5188dea39.js",
+    "/runtime-v24/scripts-802769836aed.js": "/runtime-v24/scripts-f1b6b33bf5e7.js"
+  },
+  "html_pages": 17,
+  "adaptive_images": 170,
+  "original_non_html_files_preserved": 639,
+  "node_syntax_checks": 4,
+  "missing_references": 0
+}
