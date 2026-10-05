@@ -1,0 +1,23 @@
+{
+  "runtime_map": {
+    "/runtime-v24/scripts-0def3af46d3a.js": "/runtime-v25/scripts-3b8c868c0846.js",
+    "/runtime-v24/scripts-79e5188dea39.js": "/runtime-v25/scripts-d1bfa68a33f5.js",
+    "/runtime-v24/scripts-df7a62ba15cc.js": "/runtime-v25/scripts-8ef3bc8f7bf7.js",
+    "/runtime-v24/scripts-f1b6b33bf5e7.js": "/runtime-v25/scripts-eccfd196c853.js",
+    "/runtime-v24/styles-03c76a79f6e7.css": "/runtime-v25/styles-8e44e36b826c.css",
+    "/runtime-v24/styles-1dcaa6b1ff45.css": "/runtime-v25/styles-c382de5f7668.css",
+    "/runtime-v24/styles-7fb9a4b21450.css": "/runtime-v25/styles-68284b102f67.css",
+    "/runtime-v24/styles-a4fa6b317c31.css": "/runtime-v25/styles-bfed09cc1227.css"
+  },
+  "html_count": 17,
+  "js_count": 4,
+  "css_count": 4,
+  "cursor": "original inversion, direct client coordinates, no positional easing",
+  "preserved": [
+    "v24 responsive assets and viewer helpers",
+    "magnetic buttons",
+    "card motion",
+    "elastic lines",
+    "inverse cursor zoom"
+  ]
+}
